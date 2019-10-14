@@ -12,26 +12,26 @@ def scrape(writer, url, word, word_class_name):
             soup = BeautifulSoup(html_doc, 'html.parser')
             nodesList = soup.find_all("a", class_ = word_class_name)
             if(nodesList is not None):
-                contextualWords = [ node.strong.string for node in nodesList ]
-                print(f"contextual: {contextualWords}")
-                for contextualWord in contextualWords:
+                similarWords = [ node.string for node in nodesList ]
+                print(f"similar: {similarWords}")
+                for similarWord in similarWords:
                     print("writing...")
-                    writer.writerow({ "word" : word, "contextual": contextualWord })
+                    writer.writerow({ "word" : word, "similar": similarWord })
             else:
-                print(f"contextual: ABSENT")
+                print(f"similar: ABSENT")
     except:
-        print(f"contextual: ABSENT #NOTHINGNESS")
+        print(f"similar: ABSENT #NOTHINGNESS")
 
 def main():
-    fw = open('gre-words-contextual.csv', 'w+', newline='')
-    fieldnames = ['word', 'contextual']
-    with open('gre-words.csv', newline='') as csvfile:
+    fw = open('similar-second-type.csv', 'w+', newline='')
+    fieldnames = ['word', 'similar']
+    with open('words.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         url = "https://www.thesaurus.com/browse/"
-        word_class_name = "e9i53te7"
+        word_class_name = "css-y2bqzj"
         writer = csv.DictWriter(fw, fieldnames=fieldnames)
         writer.writeheader()
-        reader_length = 4869
+        reader_length = 625
         for row in reader:
             percentDone = (reader.line_num - 2) / reader_length
             print(f'{reader.line_num - 1}/{reader_length} | {round(percentDone*100, 4)} % DONE' )
