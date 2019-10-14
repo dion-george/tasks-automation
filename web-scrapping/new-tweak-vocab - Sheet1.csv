@@ -1,0 +1,982 @@
+derived_word,origin_w,chapter,deck,meaning,example,viewed,status
+Allay,lessen,1,1,"Diminish or put at rest (fear, suspicion, or worry)",The report attempted to educate the public and allay fears.,0,0
+Appease,lessen,1,1,Pacify or placate (someone) by acceding to their demands.,"The more we appease, the more we indulge, the more emboldened the enemies of freedom become.",0,0
+Assuage,lessen,1,1,Make (an unpleasant feeling) less intense.,The government has tried to assuage the public's fears.,0,0
+Curtail,lessen,1,1,Reduce in extent or quantity; impose a restriction on.,to curtail your holiday / spending,0,0
+Degrade,lessen,1,1,Treat or regard (someone) with contempt or disrespect.,Pornography degrades women.,0,0
+Deplete,lessen,1,1,Use up the supply or resources of.,"If we continue to deplete the earth's natural resources, we will cause serious damage to the environment.",0,0
+Depreciate,lessen,1,1,Diminish in value over a period of time.,The latest cars will depreciate heavily in the first year.,0,0
+Deteriorate,lessen,1,1,Become progressively worse.,She was taken into hospital last week when her condition suddenly deteriorated.,0,0
+Dilute,lessen,1,1,Make (a liquid) thinner or weaker by adding water or another solvent to it.,Dilute the juice ( with water ) before you drink it.,0,0
+Dwindle,lessen,1,1,"Diminish gradually in size, amount, or strength.",The community has dwindled to a tenth of its former size in the last two years.,0,0
+Subside,lessen,1,1,"Become less intense, violent, or severe.",The police are hoping that the violence will soon subside.,0,0
+Undersell,lessen,1,1,Sell something at a lower price than (a competitor),A big supermarket can usually undersell a small local store.,0,0
+Impair,lessen,1,1,"Weaken or damage (something, especially a faculty or function)",A recurring knee injury may have impaired his chances of winning the tournament.,0,0
+Minimize,lessen,1,1,"Reduce (something, especially something undesirable) to the smallest possible amount or degree.",We must minimize infection.,0,0
+Mitigate,lessen,1,1,"Make (something bad) less severe, serious, or painful.",It is unclear how to mitigate of tourism on the island.,0,0
+Mollify,lessen,1,1,Appease the anger or anxiety of (someone),I tried to mollify her by giving her flowers.,0,0
+Recede,lessen,1,1,Go or move back or further away from a previous position.,My guess is that in the final moments of the season the supernatural elements of the show will recede.,0,0
+Understate,lessen,1,1,Describe or represent (something) as being smaller or less good or important than it really is.,She believes the research understates the amount of discrimination women suffer.,0,0
+Detrude,lessen,1,1,"to thrust or force down, out, or away","Lady Austen made him the most popular poet, and raised him to a rank in English poetry from which no one can detrude him.",0,0
+Simplify,lessen,1,1,Make (something) simpler or easier to do or understand.,We have the new simplified tax system.,0,0
+Emaciate,lessen,1,1,The state of being abnormally thin or weak.,"Her cheeks were pale and emaciate, and her forced smile only proclaimed more loudly the grief which was consuming her heart.",0,0
+Dearth,lessen,1,1,A scarcity or lack of something.,a dearth of new homes in the region,0,0
+Drought,lessen,1,1,"A prolonged period of abnormally low rainfall, leading to a shortage of water.",This year (a) severe drought has ruined the crops.,0,0
+Scarcity,lessen,1,1,The state of being scarce or in short supply; shortage.,the scarcity of skilled workers,0,0
+Pare,lessen,1,1,Trim (something) by cutting away its outer edges.,He was busy paring apples in the kitchen.,0,0
+Plummet,lessen,1,1,Fall or drop straight down at high speed.,House prices have plummeted in recent months.,0,0
+Frailty,lessen,1,1,The condition of being weak and delicate.,"Though ill for most of her life, physical frailty never stopped her from working.",0,0
+Infirmity,lessen,1,1,Physical or mental weakness.,an advanced state of infirmity,0,0
+Insufficiency,lessen,1,1,The condition of being insufficient.,Sometimes we blame all our problems on an insufficiency of money.,0,0
+Wane,lessen,1,1,"(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.",By the late 70s the band's popularity was beginning to wane.,0,0
+Involve,suggest,1,1,Have or include (something) as a necessary or integral part or result.,Research involving the use of biological warfare agents will be used for defensive purposes.,0,0
+Nominate,suggest,1,1,Propose or formally enter as a candidate for election or for an honour or award.,He's been nominated by the Green Party as their candidate in the next election.,0,0
+Acquaint,suggest,1,1,Make someone aware of or familiar with.,The museum offers workshops to acquaint children with the world of radio.,0,0
+Befriend,suggest,1,1,"Act as or become a friend to (someone), especially when they are in need of help or support.",He was befriended by an old lady.,0,0
+Confer,suggest,1,1,"Grant (a title, degree, benefit, or right)",I need some time to confer with my lawyer.,0,0
+Enlighten,suggest,1,1,Give (someone) greater knowledge and understanding about a subject or situation.,Should the function of children's television be to entertain or to enlighten?,0,0
+Creed,belief,1,2,A system of religious belief; a faith.,"The law forbids discrimination because of race, color, or creed.",0,0
+Dogma,belief,1,2,A principle or set of principles laid down by an authority as incontrovertibly true.,liberal / conservative dogma,0,0
+Orthodoxy,belief,1,2,"Authorized or generally accepted theory, doctrine, or practice.",orthodox treatment / methods,0,0
+Principle,belief,1,2,A fundamental truth or proposition that serves as the foundation for a system of belief or behaviour or for a chain of reasoning.,the principles of the criminal justice system,0,0
+Tenet,belief,1,2,"A principle or belief, especially one of the main principles of a religion or philosophy.",It is a tenet of contemporary psychology that an individual's mental health is supported by having good social networks.,0,0
+Theism,belief,1,2,"Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.",Those looking to discredit religion and theism generally had only to focus on what is most obvious.,0,0
+Theology,belief,1,2,The study of the nature of God and religious belief.,The minister had attended the Princeton Theological Seminary.,0,0
+Demeanor,belief,1,2,Outward behaviour or bearing.,"The boss has a calm, reassuring demeanor.",0,0
+Mentality,belief,1,2,The characteristic way of thinking of a person or group.,I can't understand the mentality of people who hurt animals.,0,0
+Morale,belief,1,2,"The confidence, enthusiasm, and discipline of a person or group at a particular time.",A couple of victories would improve the team's morale enormously.,0,0
+Perspective,belief,1,2,a point of view.,Her attitude lends a fresh perspective to the subject.,0,0
+Anxious,careful,1,2,"Feeling or showing worry, nervousness, or unease about something with an uncertain outcome.",My mother always gets a bit anxious if we don't arrive when we say we will.,0,0
+Circumspect,careful,1,2,Wary and unwilling to take risks.,Officials were circumspect about saying what the talks had achieved.,0,0
+Discreet,careful,1,2,"Careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment.",The family made discreet enquiries about his background.,0,0
+Frugal,careful,1,2,Sparing or economical as regards money or food.,a frugal lifestyle,0,0
+Judicious,careful,1,2,"Having, showing, or done with good judgement or sense.",We should make judicious use of the resources available to us.,0,0
+Protective,careful,1,2,Intended to protect someone or something.,protective clothing,0,0
+Selective,careful,1,2,Relating to or involving the selection of the most suitable or best qualified.,"As a teacher she was very selective, accepting only a small number of exceptionally gifted pupils.",0,0
+Suspicious,careful,1,2,Having or showing a cautious distrust of someone or something.,Her behaviour was very suspicious.,0,0
+Precaution,careful,1,2,"A measure taken in advance to prevent something dangerous, unpleasant, or inconvenient from happening.",Many people have been stockpiling food as a precaution against shortages.,0,0
+Vigilance,careful,1,2,The action or state of keeping careful watch for possible danger or difficulties.,The police said that it was thanks to the vigilance of a neighbour that the fire was discovered before it could spread.,0,0
+Expedient,careful,1,2,(of an action) convenient and practical although possibly improper or immoral.,It might be expedient not to pay him until the work is finished.,0,0
+Gaily,cheerful,1,2,In a cheerful or light-hearted way.,I could hear her gaily singing in her bedroom.,0,0
+Readily,cheerful,1,2,Without hesitation or reluctance; willingly.,He readily agreed to help.,0,0
+Convivial,cheerful,1,2,"(of an atmosphere or event) friendly, lively, and enjoyable.",a convivial atmosphere / host,0,0
+Happy-go-lucky,cheerful,1,2,Cheerfully unconcerned about the future.,Your current happy-go-lucky attitude will make the impact with said wall less painful.,0,0
+Jocular,cheerful,1,2,Fond of or characterized by joking; humorous or playful.,a jocular comment,0,0
+Light-hearted,cheerful,1,2,Amusing and entertaining.,It was a fairly light-hearted discussion.,0,0
+Playful,cheerful,1,2,Fond of games and amusement; light-hearted.,a playful exchange of insults,0,0
+Pleasant,cheerful,1,2,Giving a sense of happy satisfaction or enjoyment.,a pleasant climate / smile person,0,0
+Sprightly,cheerful,1,2,(especially of an old person) lively; full of energy.,He's a sprightly old man of 75.,0,0
+Energetic,cheerful,1,2,Showing or involving great activity or vitality.,an energetic young woman,0,0
+Hilarious,cheerful,1,2,Extremely amusing.,He didn't like the film at all - I thought it was hilarious.,0,0
+nimble,cheerful,1,2,Quick and light in movement or action; agile.,nimble fingers / feet,0,0
+Racy,cheerful,1,2,"Lively, entertaining, and typically sexually titillating.",a racy story,0,0
+Cosmic,huge,1,3,"Relating to the universe or cosmos, especially as distinct from the earth.",cosmic dust / radiation,0,0
+Enormous,huge,1,3,"Very large in size, quantity, or extent.",an enormous car / house,0,0
+Gigantic,huge,1,3,Of very great size or extent; huge or enormous.,a gigantic statue,0,0
+Immeasurable,huge,1,3,"Too large, extensive, or extreme to measure.",Her movies had an immeasurable effect on a generation of Americans.,0,0
+Infinite,huge,1,3,"Limitless or endless in space, extent, or size; impossible to measure or calculate.",an infinite number / variety,0,0
+Leviathan,huge,1,3,"a very large aquatic creature, especially a whale",The US is seen as an economic leviathan.,0,0
+Massive,huge,1,3,Large and heavy or solid.,They have a massive house.,0,0
+Unlimited,huge,1,3,"Not limited or restricted in terms of number, quantity, or extent.",Passes are available for one month's unlimited travel within Europe.,0,0
+Extensive,huge,1,3,Covering or affecting a large area.,a school with extensive grounds,0,0
+Immense,huge,1,3,"Extremely large or great, especially in scale or degree.",immense wealth / value,0,0
+Unwieldy,huge,1,3,"(of an object) difficult to move because of its size, shape, or weight.",A piano is a very unwieldy item to get down a flight of stairs.,0,0
+Abnormal,unusual,1,3,"Deviating from what is normal or usual, typically in a way that is undesirable or worrying.",abnormal behaviour / weather conditions,0,0
+Eccentric,unusual,1,3,(of a person or their behaviour) unconventional and slightly strange.,eccentric behaviour,0,0
+Alien,unusual,1,3,Belonging to a foreign country.,an alien culture,0,0
+Erratic,unusual,1,3,Not even or regular in pattern or movement; unpredictable.,He drove in an erratic course down the road.,0,0
+Exotic,unusual,1,3,Originating in or characteristic of a distant foreign country.,exotic flowers / food designs,0,0
+Extraordinary,unusual,1,3,Very unusual or remarkable.,He told the extraordinary story of his escape.,0,0
+Grotesque,unusual,1,3,Comically or repulsively ugly or distorted.,By now she'd had so much cosmetic surgery that she looked quite grotesque.,0,0
+Heteromorphic,unusual,1,3,"Occurring in two or more different forms, especially at different stages in the life cycle.","In this case, the drug becomes an external and heteromorphic substance that acts upon the subject.",0,0
+Incongruous,unusual,1,3,Not in harmony or keeping with the surroundings or other aspects of something.,The new computer looked incongruous in the dark book-filled library.,0,0
+Ludicrous,unusual,1,3,"So foolish, unreasonable, or out of place as to be amusing.",a ludicrous idea / suggestion,0,0
+Uncommon,unusual,1,3,Out of the ordinary; unusual.,Accidents due to failure of safety equipment are uncommon nowadays.,0,0
+Frantic,unusual,1,3,"Distraught with fear, anxiety, or other emotion.",Where on earth have you been? We've been frantic with worry.,0,0
+Inconceivable,unusual,1,3,Not capable of being imagined or grasped mentally; unbelievable.,The idea that they might not win was inconceivable to them.,0,0
+Aberration,unusual,1,3,"A departure from what is normal, usual, or expected, typically an unwelcome one.","aberration, she agreed to go with him.",0,0
+Eccentricity,unusual,1,3,The quality of being eccentric.,His eccentricity now extends to never washing or changing his clothes.,0,0
+Idiosyncrasy,unusual,1,3,A mode of behaviour or way of thought peculiar to an individual.,She often cracks her knuckles when she's speaking - it's one of her little idiosyncrasies.,0,0
+Modernity,unusual,1,3,The quality or condition of being modern.,There is a stark contrast between tradition and modernity.,0,0
+Paradox,unusual,1,3,A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.,It's a curious paradox that drinking a lot of water can often make you feel thirsty.,0,0
+Alien,unusual,1,3,Belonging to a foreign country.,An Englishman is an alien in America.,0,0
+Characteristic,unusual,1,3,"Typical of a particular person, place, or thing.",Unfortunately a big nose is a family characteristic.,0,0
+Intrinsic,unusual,1,3,Belonging naturally; essential.,works of little intrinsic value / interest,0,0
+Inexplicable,unusual,1,3,Unable to be explained or accounted for.,"For some inexplicable reason, he's decided to cancel the project.",0,0
+Infrequent,unusual,1,3,Not occurring often; rare.,"His letters became infrequent, then stopped completely.",0,0
+Whimsical,unusual,1,3,"Playfully quaint or fanciful, especially in an appealing and amusing way.",a whimsical tale,0,0
+Causal,unusual,1,3,Relating to or acting as a cause.,Is there a causal relationship between violence on television and violent behaviour ?,0,0
+Comprehensive,extensive,2,1,Including or dealing with all or nearly all elements or aspects of something.,We offer you a comprehensive training in all aspects of the business.,0,0
+Copious,extensive,2,1,Abundant in supply or quantity.,They drank copious amounts of wine.,0,0
+Exhaustive,extensive,2,1,Including or considering all elements or aspects; fully comprehensive.,an exhaustive study / report,0,0
+Indiscriminate,extensive,2,1,Done at random or without careful judgement.,an indiscriminate terrorist attack on civilians,0,0
+Prevalent,extensive,2,1,Widespread in a particular area or at a particular time.,These diseases are more prevalent among young children.,0,0
+aural,distinct,2,1,Relating to the ear or the sense of hearing.,"aural teaching aids, such as CDs",0,0
+Conspicuous,distinct,2,1,Clearly visible.,"In China, her blonde hair was conspicuous.",0,0
+Diverse,distinct,2,1,Showing a great deal of variety; very different.,Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks.,0,0
+Legible,distinct,2,1,(of handwriting or print) clear enough to read.,Her handwriting is barely legible.,0,0
+Noticeable,distinct,2,1,Easily seen or noticed; clear or apparent.,There has been a noticeable improvement in Tim's cooking.,0,0
+Palpable,distinct,2,1,(of a feeling or atmosphere) so intense as to seem almost tangible.,a palpable effect,0,0
+Perceptible,distinct,2,1,(especially of a slight movement or change of state) able to be seen or noticed.,There was a barely perceptible movement in his right arm.,0,0
+Audible,distinct,2,1,Able to be heard.,The lecturer spoke so quietly that he was scarcely audible at the back of the hall.,0,0
+Transparent,distinct,2,1,(of a material or article) allowing light to pass through so that objects behind can be distinctly seen.,"Grow the bulbs in a transparent plastic box, so the children can see the roots growing.",0,0
+Ardent,passion,2,1,Very enthusiastic or passionate.,an ardent supporter of Manchester United,0,0
+Devout,passion,2,1,Having or showing deep religious feeling or commitment.,a devout Buddhist / Christian churchgoer,0,0
+Earnest,passion,2,1,Resulting from or showing sincere and intense conviction.,He was a very earnest young man.,0,0
+Expressive,passion,2,1,Effectively conveying thought or feeling.,an expressive face,0,0
+Exuberant,passion,2,1,"Full of energy, excitement, and cheerfulness.","Young and exuberant, he symbolizes Italy's new vitality.",0,0
+Fervent,passion,2,1,Having or displaying a passionate intensity.,a fervent supporter of the communist party,0,0
+Genitive,passion,2,1,"used primarily to express possession, measure, or origin.",the genitive form of a noun,0,0
+Impulsive,passion,2,1,Acting or done without forethought.,Don't be so impulsive - think before you act.,0,0
+Irascible,passion,2,1,Having or showing a tendency to be easily angered.,She's becoming more and more irascible as she grows older.,0,0
+Poignant,passion,2,1,Evoking a keen sense of sadness or regret.,The photograph awakens poignant memories of happier days.,0,0
+Venereal,passion,2,1,Relating to sexual desire or sexual intercourse.,a venereal infection,0,0
+Ardor,passion,2,1,Great enthusiasm or passion.,"She fires off the facts, yet lets her ardor for her cause come through.",0,0
+Aspiration,passion,2,1,A hope or ambition of achieving something.,I've never had any political aspirations.,0,0
+Craving,passion,2,1,A powerful desire for something.,I have a craving for chocolate.,0,0
+Fervor,passion,2,1,Intense and passionate feeling.,The country was swept by patriotic fervor.,0,0
+Impulsion,passion,2,1,A strong urge to do something.,I would like to believe that we are all driven by some spiritual impulsion of which we are perhaps not even aware.,0,0
+Ire,passion,2,1,Anger.,Petty restrictions easily the ire of such a creative artist.,0,0
+Mania,passion,2,1,"Mental illness marked by periods of great excitement or euphoria, delusions, and overactivity.",So why your sudden mania for exercise ?,0,0
+Monomania,passion,2,1,Exaggerated or obsessive enthusiasm for or preoccupation with one thing.,It's the familiar story of the destructive monomania of the professional activist.,0,0
+Pathos,passion,2,1,A quality that evokes pity or sadness.,There's a pathos in his performance which he never lets slide into sentimentality.,0,0
+Poignancy,passion,2,1,The quality of evoking a keen sense of sadness or regret; pathos.,The production took on added poignancy due to the director's recent death.,0,0
+Sensation,passion,2,1,A physical feeling or perception resulting from something that happens to or comes into contact with the body.,a burning sensation,0,0
+Altruist,patron,2,2,a person unselfishly concerned for or devoted to the welfare of others,She's not known for her altruism.,0,0
+Benefactor,patron,2,2,A person who gives money or other help to a person or cause.,"They hope to find a benefactor, and turn the factory into a museum.",0,0
+Contributor,patron,2,2,A person or thing that contributes something.,"On the last page of the programme, there is a list of contributors to the theatre appeal.",0,0
+Donor,patron,2,2,"A person who donates something, especially money to charity.",a blood donor,0,0
+Giver,patron,2,2,A person who gives something.,I thanked the giver of every gift in person.,0,0
+Grantor,patron,2,2,A person or institution that makes a grant or conveyance.,"As grantor, central government requires information from local that funds are being used well.",0,0
+Philanthropist,patron,2,2,"A person who seeks to promote the welfare of others, especially by the generous donation of money to good causes.",a donation from a wealthy 19th-century philanthropist,0,0
+Protector,patron,2,2,A person or thing that protects someone or something.,Philip II considered himself the protector of the Catholic Church.,0,0
+Gregarious,friendly,2,2,(of a person) fond of company; sociable.,"Emma's a gregarious, outgoing sort of person.",0,0
+Lovable,friendly,2,2,Inspiring or deserving love or affection.,a lovable child,0,0
+Indulgent,friendly,2,2,Having or indicating a readiness or over-readiness to be generous to or lenient with someone.,indulgent relatives,0,0
+Magnanimous,friendly,2,2,"Generous or forgiving, especially towards a rival or less powerful person.","The team's manager was magnanimous in victory, and praised the losing team.",0,0
+Congenial,friendly,2,2,(of a person) pleasing or liked on account of having qualities or interests that are similar to one's own.,congenial company / surroundings,0,0
+Harmonious,friendly,2,2,Tuneful; not discordant.,harmonious relations between the country's ethnic groups,0,0
+Humane,friendly,2,2,Having or showing compassion or benevolence.,The humane way of dealing with a suffering animal is to kill it quickly.,0,0
+Sociable,friendly,2,2,Willing to talk and engage in activities with other people; friendly.,Rob's very sociable - he likes parties.,0,0
+Fraternal,friendly,2,2,Of or like a brother or brothers.,fraternal rivalry,0,0
+Hospitable,friendly,2,2,Friendly and welcoming to visitors or guests.,The villagers were very hospitable to/towards anyone who passed through.,0,0
+Affable,friendly,2,2,"Friendly, good-natured, or easy to talk to.",He struck me as an affable sort of a man.,0,0
+Amicable,friendly,2,2,Characterized by friendliness and absence of discord.,"His manner was perfectly amicable, but I felt uncomfortable.",0,0
+Decorous,friendly,2,2,In keeping with good taste and propriety; polite and restrained.,"His manner, as ever, was decorous.",0,0
+Diplomatic,friendly,2,2,Of or concerning diplomacy.,diplomatic negotiations,0,0
+Genteel,friendly,2,2,"Characterized by exaggerated or affected politeness, refinement, or respectability.",The mansion had an atmosphere of genteel elegance and decay.,0,0
+Reverent,friendly,2,2,Feeling or showing deep and solemn respect.,A reverent silence fell over the crowd.,0,0
+Suave,friendly,2,2,"(especially of a man) charming, confident, and elegant.",He's very suave and sophisticated.,0,0
+Benign,friendly,2,2,Gentle and kind.,a benign old lady,0,0
+Docile,friendly,2,2,Ready to accept control or instruction; submissive.,The once docile population has finally risen up against the ruthless regime.,0,0
+Placid,friendly,2,2,Not easily upset or excited.,a slow-moving and placid river,0,0
+merciful,friendly,2,2,Showing or exercising mercy.,""" God is merciful,"" said the priest.",0,0
+Inoffensive,friendly,2,2,Not objectionable or harmful.,an inoffensive article,0,0
+Adherence,loyalty,2,2,"Attachment or commitment to a person, cause, or belief.",He was noted for his strict adherence to the rules.,0,0
+Fealty,loyalty,2,2,A feudal tenant's or vassal's sworn loyalty to a lord.,an oath of fealty,0,0
+Fidelity,loyalty,2,2,"Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.","Somerset Maugham's comedy of marital fidelity, ""The Constant Wife""",0,0
+Homage,loyalty,2,2,Special honour or respect shown publicly.,On this occasion we pay homage to him for his achievements.,0,0
+Patriotism,loyalty,2,2,The quality of being patriotic; devotion to and vigorous support for one's country.,True patriotism is more than saluting the flag and obeying the current administration.,0,0
+Corruption,cheat,2,3,"Dishonest or fraudulent conduct by those in power, typically involving bribery.",The film is about a young police officer and his struggle to expose corruption in the force.,0,0
+Extortion,cheat,2,3,"The practice of obtaining something, especially money, through force or threats.",He had been extorting money from the old lady for years.,0,0
+Intrigue,cheat,2,3,Arouse the curiosity or interest of; fascinate.,"Throughout history, people have been intrigued by the question of whether there is intelligent life elsewhere in the universe.",0,0
+Clandestine,cheat,2,3,"Kept secret or done secretively, especially because illicit.",The group held weekly clandestine meetings in a church.,0,0
+Counterfeit,cheat,2,3,Made in exact imitation of something valuable with the intention to deceive or defraud.,counterfeit jewellery / passports coins,0,0
+Deceitful,cheat,2,3,Guilty of or involving deceit; deceiving or misleading others.,"The story is about theft, fraud, and deceit on an incredible scale.",0,0
+Cajole,cheat,2,3,Persuade (someone) to do something by sustained coaxing or flattery.,He really knows how to cajole people into doing what he wants.,0,0
+Defraud,cheat,2,3,Illegally obtain money from (someone) by deception.,He was found guilty of defrauding the Internal Revenue Service.,0,0
+Evade,cheat,2,3,"Escape or avoid (someone or something), especially by guile or trickery.",The police have assured the public that the escaped prisoners will not evade recapture for long.,0,0
+Fraudulent,cheat,2,3,"Obtained, done by, or involving deception, especially criminal deception.",A worrying trend for insurers has been a rise in fraudulent claims.,0,0
+Underhand,cheat,2,3,acting or done in a secret or dishonest way,"Shareholders sued the company, alleging an underhanded attempt to deprive them of their rights.",0,0
+Subterfuge,cheat,2,3,Deceit used in order to achieve one's goal.,It was clear that they must have obtained the information by subterfuge.,0,0
+Innocuous,banal,2,3,Not harmful or offensive.,Some mushrooms look innocuous but are in fact poisonous.,0,0
+Insipid,banal,2,3,Lacking flavour; weak or tasteless.,a pale insipid wine,0,0
+Mundane,banal,2,3,Lacking interest or excitement; dull.,Mundane matters such as paying bills and shopping for food do not interest her.,0,0
+Pedestrian,banal,2,3,A person walking rather than travelling in a vehicle.,A few pedestrians sheltered from the rain in doorways.,0,0
+Prosaic,banal,2,3,Having or using the style or diction of prose as opposed to poetry; lacking imaginativeness or originality.,If only she'd been called Camilla or Flavia instead of the prosaic Jane.,0,0
+Antagonism,disagreement,2,3,Active hostility or opposition.,There's a history of antagonism between the two teams.,0,0
+Contradiction,disagreement,2,3,"A combination of statements, ideas, or features which are opposed to one another.",You say that you're good friends and yet you don't trust him. Isn't that a contradiction?,0,0
+Dissension,disagreement,2,3,Disagreement that leads to discord.,There are signs of dissension within the ruling political party.,0,0
+Skirmish,disagreement,2,3,"An episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets.",There was a short skirmish between the two of them over who would pay for the meal.,0,0
+Squabble,disagreement,2,3,A noisy quarrel about something trivial.,Polly and Susie were having a squabble about who was going to hold the dog's lead.,0,0
+Wrangle,disagreement,2,3,"A dispute or argument, typically one that is long and complicated.",a lengthy wrangle about/over costs,0,0
+Aversion,disagreement,2,3,A strong dislike or disinclination.,I felt an instant aversion to his parents.,0,0
+Prejudice,disagreement,2,3,Preconceived opinion that is not based on reason or actual experience.,Laws against racial prejudice must be strictly enforced.,0,0
+Rancor,disagreement,2,3,"Bitterness or resentfulness, especially when long standing.",Can we settle this disagreement without rancor?,0,0
+Adverse,disagreement,2,3,Preventing success or development; harmful; unfavourable.,The match has been cancelled because of adverse.,0,0
+Contradictory,disagreement,2,3,Mutually opposed or inconsistent.,I keep getting contradictory advice - some people tell me to it warm and some me to put ice on it.,0,0
+Dissent,disagreement,2,3,The holding or expression of opinions at variance with those commonly or officially held.,"When the time came to approve the proposal, there were one or two dissent.",0,0
+Outcry,disagreement,2,3,An exclamation or shout.,The release from prison of two of the terrorists has provoked a public outcry.,0,0
+Query,disagreement,2,3,"A question, especially one expressing doubt or requesting information.","If you have any queries about your treatment, the doctor will answer them.",0,0
+Reluctance,disagreement,2,3,Unwillingness or disinclination to do something.,I accepted his resignation with great reluctance.,0,0
+Decency,virtue,3,1,Behaviour that conforms to accepted standards of morality or respectability.,a sense of decency,0,0
+Differentia,virtue,3,1,A distinguishing mark or characteristic.,"If one of them only has this differentia, then this one is composite and is not the first cause.",0,0
+Efficacy,virtue,3,1,The ability to produce a desired or intended result.,They recently ran a series of tests to measure the efficacy of the drug.,0,0
+Excellence,virtue,3,1,The quality of being outstanding or extremely good.,The school is noted for its academic excellence.,0,0
+Excellency,virtue,3,1,"A title or form of address given to certain high officials of state, especially ambassadors, or of the Roman Catholic Church.",His Excellency will be pleased to see you now.,0,0
+Integrity,virtue,3,1,The quality of being honest and having strong moral principles.,No one doubted that the president was a man of the highest integrity.,0,0
+Morality,virtue,3,1,Principles concerning the distinction between right and wrong or good and bad behaviour.,They argued for a new morality based on self-sacrifice and honesty.,0,0
+Prudery,virtue,3,1,The state of being asily shocked by matters relating to sex or nudity,the prudishness of Victorian Britain,0,0
+Trait,virtue,3,1,"A distinguishing quality or characteristic, typically one belonging to a person.",His sense of humour is one of his better traits.,0,0
+Probity,virtue,3,1,The quality of having strong moral principles; honesty and decency.,Her probity and integrity are beyond question.,0,0
+Propriety,virtue,3,1,Conformity to conventionally accepted standards of behaviour or morals.,The director insisted that there was no question as to the propriety of how the funds were raised.,0,0
+Righteousness,virtue,3,1,The quality of being morally right or justifiable.,He was regarded as a righteous and holy man.,0,0
+Veracity,virtue,3,1,Conformity to facts; accuracy.,Doubts were cast on the veracity of her alibi.,0,0
+Rectitude,virtue,3,1,Morally correct behaviour or thinking; righteousness.,"An austere man of unquestioned moral rectitude, Nava inspired deep devotion in those who worked for him.",0,0
+Criterion,virtue,3,1,A principle or standard by which something may be judged or decided.,The Health Service should not be judged by financial criteria alone.,0,0
+Dialogue,discourse,3,1,"A conversation between two or more people as a feature of a book, play, or film.",The play contained some very snappy / witty dialogue.,0,0
+Harangue,discourse,3,1,A lengthy and aggressive speech.,A drunk in the station was haranguing passers-by.,0,0
+Monologue,discourse,3,1,"A long speech by one actor in a play or film, or as part of a theatrical or broadcast programme.",He subjected me to a monologue on his last stay in hospital.,0,0
+Soliloquy,discourse,3,1,"An act of speaking one's thoughts aloud when by oneself or regardless of any hearers, especially by a character in a play.","Hamlet's soliloquy starts ""To be or not to be"".",0,0
+Treatise,discourse,3,1,A written work dealing formally and systematically with a subject.,a six-volume treatise on trademark law,0,0
+Dormant,passive,3,1,(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep.,The long-dormant volcano has recently shown signs of erupting.,0,0
+Inert,passive,3,1,Lacking the ability or strength to move.,The inert figure of a man could be seen lying in the front of the car.,0,0
+Lackadaisical,passive,3,1,Lacking enthusiasm and determination; carelessly lazy.,The food was nice enough but the service somewhat lackadaisical.,0,0
+Powerless,passive,3,1,"Without ability, influence, or power.",The villagers are powerless against the armed invaders.,0,0
+Static,passive,3,1,"Lacking in movement, action, or change, especially in an undesirable or uninteresting way.",Oil prices have remained static for the last few months.,0,0
+Difference,change,3,1,A point or way in which people or things are dissimilar.,What's the difference between an ape and a monkey ?,0,0
+Evolution,change,3,1,The process by which different kinds of living organism are believed to have developed.,Darwin's theory of evolution,0,0
+Flection,change,3,1,"The action of bending or the condition of being bent, especially the bending of a limb or joint.","It exhibits, also, something of that new growth which was to compensate for the loss of flection.",0,0
+Variation,change,3,1,"A change or slight difference in condition, amount, or level, typically within certain limits.",Unemployment rates among white-collar workers show much less regional variation than corresponding blue-collar.,0,0
+Alteration,change,3,1,The action or process of altering or being altered.,We've had to alter some of our plans.,0,0
+Fluctuation,change,3,1,An irregular rising and falling in number or amount; a variation.,Vegetable prices fluctuate the season.,0,0
+Mutation,change,3,1,The action or process of mutating.,It is well known that radiation can cause mutation.,0,0
+Distort,change,3,1,Pull or twist out of shape.,The map distorted Greenland to appear four times its actual size.,0,0
+Divert,change,3,1,Cause (someone or something) to change course or turn from one direction to another.,Traffic will be diverted through the side streets while the main road is resurfaced.,0,0
+Juggle,change,3,1,Continuously toss into the air and catch (a number of objects) so as to keep at least one in the air while handling the others.,We all watched in amazement as he juggled with three flaming torches.,0,0
+Readjust,change,3,1,Set or adjust (something) again.,"After living abroad for so long, he found it difficult to readjust to life at home.",0,0
+Embolden,inspire,3,2,Give (someone) the courage or confidence to do something.,"Emboldened by drink, he walked over to speak to her.",0,0
+Enthuse,inspire,3,2,"Express eager enjoyment, interest, or approval regarding something.",He was enthusing over a wonderful restaurant he'd been to.,0,0
+Infuse,inspire,3,2,Fill; pervade.,The pulling down of the Berlin Wall infused the world with optimism.,0,0
+Instill,inspire,3,2,Gradually but firmly establish (an idea or attitude) in a person's mind.,My parents instilled in me a love of reading.,0,0
+Reassure,inspire,3,2,Say or do something to remove the doubts or fears of (someone),"I was nervous on my first day at college, but I was reassured to see some friendly faces.",0,0
+Stimulate,inspire,3,2,Raise levels of physiological or nervous activity in (the body or any biological system),The government plans to cut taxes in order to stimulate the economy.,0,0
+Domination,inspire,3,2,"The exercise of power or influence over someone or something, or the state of being so controlled.",He refuses to let others speak and dominates every meeting.,0,0
+Origin,inspire,3,2,"The point or place where something begins, arises, or is derived.",It's a book about the origin of the universe.,0,0
+Persuade,inspire,3,2,Induce (someone) to do something through reasoning or argument.,"If she doesn't want to go, nothing you can say will persuade her.",0,0
+Benevolence,generosity,3,2,The quality of being well meaning; kindness.,He was a benevolent old man and wouldn't hurt a fly.,0,0
+Benison,generosity,3,2,A blessing.,"If you can find blessedness, my benison is that I can see you will be happy in faraway country.",0,0
+Courtesy,generosity,3,2,The showing of politeness in one's attitude and behaviour towards others.,You might get along better with your parents if you showed them some courtesy.,0,0
+Hospitality,generosity,3,2,"The friendly and generous reception and entertainment of guests, visitors, or strangers.",The local people showed me great hospitality.,0,0
+Philanthropy,generosity,3,2,"The desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.",He argues that corporate philanthropy transforms the culture of the firm concerned.,0,0
+Encourage,restore,3,2,"Give support, confidence, or hope to (someone)",We were encouraged to learn foreign languages at school.,0,0
+Invigorate,restore,3,2,Give strength or energy to.,We were invigorated by our walk.,0,0
+Modernize,restore,3,2,"Adapt (something) to modern needs or habits, typically by installing modern equipment or adopting modern ideas or methods.",Much of the house has been modernized.,0,0
+Reclaim,restore,3,2,"Retrieve or recover (something previously lost, given, or paid); obtain the return of.",You'll be able to reclaim the tax on all equipment that you buy.,0,0
+Reconstruct,restore,3,2,Build or form (something) again after it has been damaged or destroyed.,The post-war government had the enormous task of reconstructing the city.,0,0
+Recover,restore,3,2,"Return to a normal state of health, mind, or strength.",It took her a long time to recover from/after her heart operation.,0,0
+Reestablish,restore,3,2,Establish (something) again or anew.,Our new digital camera range has helped us re-establish our position in this important market.,0,0
+Reform,restore,3,2,"Make changes in (something, especially an institution or practice) in order to improve it.",Who will reform our unfair electoral system ?,0,0
+Rehabilitate,restore,3,2,"Restore (someone) to health or normal life by training and therapy after imprisonment, addiction, or illness.",The prison service should try to rehabilitate prisoners so that they can lead normal lives when they leave.,0,0
+Reimburse,restore,3,2,Repay (a person who has spent or lost money),The airline reimbursed me for the amount they had overcharged me.,0,0
+Reinstate,restore,3,2,Restore (someone or something) to their former position or state.,"A month after being unfairly dismissed, he was reinstated in his job.",0,0
+Rejuvenate,restore,3,2,"Make (someone or something) look or feel better, younger, or more vital.",She felt rejuvenated by her fortnight in the Bahamas.,0,0
+Remodel,restore,3,2,"Change the structure or form of (something, especially a building)",We've completely remodelled the kitchen.,0,0
+Renovate,restore,3,2,"Restore (something old, especially a building) to a good state of repair.",He renovates old houses and sells them at a profit.,0,0
+Replenish,restore,3,2,Fill (something) up again.,Food stocks were replenished by/with imports from abroad.,0,0
+Reseat,restore,3,2,Cause (someone) to sit down again after they have risen.,"After you install the new floor, you will need to remove the old wax seal under the toilet, install a new wax seal, and reseat the toilet.",0,0
+resuscitate,restore,3,2,Revive (someone) from unconsciousness or apparent death.,"Her heart had stopped, but the doctors successfully resuscitated her.",0,0
+Retrieve,restore,3,2,Get or bring (something) back from somewhere.,We taught our dog to retrieve a ball.,0,0
+Rebuild,restore,3,2,Build (something) again after it has been damaged or destroyed.,The cathedral was completely rebuilt in 1425 after it had been destroyed by fire.,0,0
+Salvage,restore,3,2,Rescue (a wrecked or disabled ship or its cargo) from loss at sea.,gold coins salvaged from a shipwreck,0,0
+Abdicate,deny,3,3,(of a monarch) renounce one's throne.,King Edward VIII abdicated (the British throne ) in 1936.,0,0
+Abstain,deny,3,3,Restrain oneself from doing or enjoying something.,He took a vow to abstain from alcohol / smoking sex.,0,0
+Cede,deny,3,3,Give up (power or territory),Hong Kong was ceded to Britain after the Opium War.,0,0
+Discard,deny,3,3,Get rid of (someone or something) as no longer useful or desirable.,Discarded food containers and bottles littered the streets.,0,0
+Disown,deny,3,3,Refuse to acknowledge or maintain any connection with.,It's a story set in the last century about a girl whose parents disowned her when she married a foreigner.,0,0
+Eschew,deny,3,3,Deliberately avoid using; abstain from.,We won't have discussions with this group unless they eschew.,0,0
+Forego,deny,3,3,Precede in place or time.,If she doesn't handle herself correctly she will forego any chance of holding a national office in the future.,0,0
+Forgo,deny,3,3,Go without (something desirable),I shall have to forgo seeing you this week.,0,0
+Forswear,deny,3,3,Agree to give up or do without.,to forswear all violence,0,0
+Recant,deny,3,3,"Say that one no longer holds an opinion or belief, especially one considered heretical.","After a year spent in solitary confinement, he publicly recanted (his views ).",0,0
+Relinquish,deny,3,3,Voluntarily cease to keep or claim; give up.,He has relinquished his claim to the throne.,0,0
+Repudiate,deny,3,3,Refuse to accept; reject.,He repudiated the allegation / charge claim that he had tried to deceive them.,0,0
+Retract,deny,3,3,Draw or be drawn back or back in.,retract an invitation / confession promise,0,0
+Revoke,deny,3,3,"Officially cancel (a decree, decision, or promise)",The authorities have revoked their original decision to allow development of this rural area.,0,0
+Vacate,deny,3,3,Leave (a place that one previously occupied),Hotel guests are requested to vacate their rooms by noon.,0,0
+Waive,deny,3,3,Refrain from insisting on or using (a right or claim),"The bank manager waived the charge, as we were old and valued customers.",0,0
+Disapprove,deny,3,3,Have or express an unfavourable opinion.,"The survey showed that 32 percent of respondents approve, 54 disapprove, and the rest are undecided.",0,0
+Embargo,deny,3,3,An official ban on trade or other commercial activity with a particular country.,They have put an embargo on imports of clothing.,0,0
+Injunction,deny,3,3,An authoritative warning or order.,The court has issued an injunction to prevent the airline from increasing its prices.,0,0
+Refusal,deny,3,3,An act of refusing to do something.,Our request for permission to travel a refusal from the authorities.,0,0
+Veto,deny,3,3,A constitutional right to reject a decision or proposal made by a lawmaking body.,The president has the veto over any bill that comes across his desk.,0,0
+Disallow,deny,3,3,Refuse to declare valid.,All protests have been disallowed in the city.,0,0
+Accomplish,achieve,3,3,Achieve or complete successfully.,The students accomplished the task in less than ten minutes.,0,0
+Enact,achieve,3,3,Make (a bill or other proposal) law.,A package of economic sanctions is to be enacted against the country.,0,0
+Operate,achieve,3,3,"(of a person) control the functioning of (a machine, process, or system)",How do you operate the remote control unit ?,0,0
+Accumulate,achieve,3,3,Gather together or acquire an increasing number or quantity of.,"As people accumulate more wealth, they tend to spend a greater proportion of their incomes.",0,0
+Acquisition,achieve,3,3,"An asset or object bought or obtained, typically by a library or museum.",The acquisition of huge amounts of data has helped our research enormously.,0,0
+Benefit,achieve,3,3,An advantage or profit gained from something.,The discovery of oil brought many benefits to the town.,0,0
+Perform,achieve,3,3,"Carry out, accomplish, or fulfil (an action, task, or function)",Computers can perform a variety of tasks.,0,0
+Accept,get,3,3,Consent to receive or undertake (something offered),Do you accept credit cards ?,0,0
+Acquire,get,3,3,Buy or obtain (an asset or object) for oneself.,He acquired the firm in 2008.,0,0
+Came,get,3,3,"Each of a number of strips forming a framework for enclosing a pane of glass, especially in a leaded window.",,0,0
+Garrote,get,3,3,"Kill (someone) by strangulation, especially with a length of wire or cord.",,0,0
+Proceed,get,3,3,Begin a course of action.,His lawyers have decided not to proceed with the case.,0,0
+Succeed,get,3,3,Achieve the desired aim or result.,She's been trying to pass her driving test for six years and she's finally succeeded.,0,0
+Isolate,remove,4,1,Cause (a person or place) to be or remain alone or apart from others.,A high wall isolated the house from the rest of the village.,0,0
+Oust,remove,4,1,Drive out or expel (someone) from a position or place.,The president was ousted ( ) in a military coup in January 1987,0,0
+Transplant,remove,4,1,Move or transfer (someone or something) to another place or situation.,"The plants should be grown indoors until spring, when they can be transplanted outside.",0,0
+Eradicate,remove,4,1,Destroy completely; put an end to.,The government claims to be doing all it can to eradicate corruption.,0,0
+Amputate,remove,4,1,Cut off (a limb) by surgical operation.,They had to amputate his foot to free him from the wreckage.,0,0
+Boycott,remove,4,1,"Withdraw from commercial or social relations with (a country, organization, or person) as a punishment or protest.",People were urged to boycott the country's products.,0,0
+Disconnect,remove,4,1,Break the connection of or between.,Never try to fix a broken machine without disconnecting it from the electricity supply.,0,0
+Terminate,remove,4,1,Bring to an end.,They terminated my contract in October.,0,0
+Eliminate,remove,4,1,Completely remove or get rid of (something),A move towards healthy eating could help eliminate heart disease.,0,0
+Disappear,remove,4,1,Cease to be visible.,The search was called off for the sailors who disappeared in the storm.,0,0
+Extradite,remove,4,1,Hand over (a person accused or convicted of a crime) to the jurisdiction of the foreign state in which the crime was committed.,He will be extradited to Arizona from Florida.,0,0
+Liberate,remove,4,1,"Set (someone) free from imprisonment, slavery, or oppression.",They said they sent troops in to liberate the people /the country from a dictator.,0,0
+Disparage,remove,4,1,Regard or represent as being of little worth.,The actor's work for charity has recently been disparaged in the press as an attempt to get publicity.,0,0
+Dispel,remove,4,1,"Make (a doubt, feeling, or belief) disappear.",I'd like to start the speech by dispelling a few rumours that have been spreading recently.,0,0
+Eject,remove,4,1,Force or throw (something) out in a violent or sudden way.,A number of fans had been ejected from the bar for causing trouble.,0,0
+Evict,remove,4,1,"Expel (someone) from a property, especially with the support of the law.",Tenants who fall behind in their rent risk being evicted.,0,0
+Exonerate,remove,4,1,(of an official body) absolve (someone) from blame for a fault or wrongdoing.,The report exonerated the crew from all responsibility for the collision.,0,0
+Cull,remove,4,1,Reduce the population of (a wild animal) by selective slaughter.,The plan to cull large numbers of baby seals has angered environmental groups.,0,0
+Distill,remove,4,1,"Purify (a liquid) by heating it so that it vaporizes, then cooling and condensing the vapour and collecting the resulting liquid.",distilled water / whiskey,0,0
+Elicit,remove,4,1,"Evoke or draw out (a reaction, answer, or fact) from someone.",Have you managed to elicit a response from them yet ?,0,0
+Extort,remove,4,1,"Obtain (something) by force, threats, or other unfair means.",He had been extorting money from the old lady for years.,0,0
+Extricate,remove,4,1,Free (someone or something) from a constraint or difficulty.,It took hours to extricate the car from the sand.,0,0
+Wrest,remove,4,1,Forcibly pull (something) from a person's grasp.,The shareholders are planning to wrest control of the company (away) from the current directors.,0,0
+Avert,remove,4,1,Turn away (one's eyes or thoughts),to avert a crisis / conflict strike famine,0,0
+Disqualify,remove,4,1,"Declare (someone) ineligible for an office, activity, or competition because of an offence or infringement.",Two top athletes have been disqualified from the championship after positive drug tests.,0,0
+Foreclose,remove,4,1,Take possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.,The bank is threatening to foreclose on the family's house.,0,0
+Forfend,remove,4,1,Avert or prevent (something evil or unpleasant),"Is it not rather the blind brute instinct of self-protection, forfend what may?",0,0
+Obviate,remove,4,1,Remove (a need or difficulty),A peaceful solution would obviate the need to send a UN military force.,0,0
+Agile,buoyant,4,1,Able to move quickly and easily.,Monkeys are very agile climbers.,0,0
+Ebullient,buoyant,4,1,Cheerful and full of energy.,He wasn't his usual ebullient self.,0,0
+Festal,buoyant,4,1,Relating to or characteristic of a celebration or festival.,The whole town is in a festal mood.,0,0
+Insuppressible,buoyant,4,1,"Incapable of being suppressed, overcome, or muffled",The insuppressible alertness and enterprise of his own mind tells upon his portrayal of these intense moments.,0,0
+Irrepressible,buoyant,4,1,Not able to be controlled or restrained.,Even the rain failed to dampen his irrepressible spirits.,0,0
+Jovial,buoyant,4,1,Cheerful and friendly.,He seemed a very jovial guy.,0,0
+resilient,buoyant,4,1,(of a person or animal) able to withstand or recover quickly from difficult conditions.,She's a resilient girl - she won't be unhappy for long.,0,0
+Sanguine,buoyant,4,1,"Optimistic or positive, especially in an apparently bad or difficult situation.",They are less sanguine about the prospects for peace.,0,0
+Volatile,buoyant,4,1,(of a substance) easily evaporated at normal temperatures.,Food and fuel prices are very volatile in a war situation.,0,0
+Baritone,fantastic,4,2,An adult male singing voice between tenor and bass.,"He sang in a deep, rich baritone.",0,0
+Memorable,fantastic,4,2,"Worth remembering or easily remembered, especially because of being special or unusual.",a memorable performance,0,0
+Potent,fantastic,4,2,"Having great power, influence, or effect.",Surprise remains the terrorists  most potent weapon.,0,0
+Imaginary,fantastic,4,2,Existing only in the imagination.,As a child I had an imaginary friend.,0,0
+Phenomenal,fantastic,4,2,"Remarkable or exceptional, especially exceptionally good.",Her rise to fame was quite phenomenal - in less than two years she was a household name.,0,0
+Prodigious,fantastic,4,2,"Remarkably or impressively great in extent, size, or degree.",She wrote a truly prodigious number of novels.,0,0
+Transcendent,fantastic,4,2,Beyond or above the range of normal or physical human experience.,transcendent power / beauty love,0,0
+Tremendous,fantastic,4,2,"Very great in amount, scale, or intensity.",They were making a tremendous amount of noise last night.,0,0
+Concede,grant,4,2,Admit or agree that something is true after first denying or resisting it.,The government has conceded (that) the new tax policy has been a disaster.,0,0
+Concession,grant,4,2,"A thing that is granted, especially in response to demands.",Both sides involved in the conflict made some concessions in yesterday's talks.,0,0
+Contribution,grant,4,2,A gift or payment to a common fund or collection.,"All contributions, no matter how small, will be much appreciated.",0,0
+Donate,grant,4,2,"Give (money or goods) for a good cause, for example to a charity.",An anonymous businesswoman donated one million dollars to the charity.,0,0
+Empower,grant,4,2,Give (someone) the authority or power to do something.,This amendment empowers the president to declare an emergency for a wide range of reasons.,0,0
+Pension,grant,4,2,A regular payment made by the state to people of or above the official retirement age and to some widows and disabled people.,a government pension,0,0
+Eminent,outstanding,4,2,(of a person) famous and respected within a particular sphere.,an eminent historian,0,0
+Excellent,outstanding,4,2,Extremely good; outstanding.,The food was excellent.,0,0
+Leonine,outstanding,4,2,Of or resembling a lion or lions.,"Say so, the lion, should have leonine vivid law and look.",0,0
+Magnificent,outstanding,4,2,"Extremely beautiful, elaborate, or impressive.",a magnificent view,0,0
+Paramount,outstanding,4,2,More important than anything else; supreme.,"There are many priorities, but reducing the budget deficit is paramount/is of paramount importance.",0,0
+Principal,outstanding,4,2,First in order of importance; main.,Iraq's principal export is oil.,0,0
+Prominent,outstanding,4,2,Important; famous.,a prominent Democrat,0,0
+Sterling,outstanding,4,2,British money.,The value of sterling increased against several other currencies yesterday.,0,0
+Successful,outstanding,4,2,Accomplishing a desired aim or result.,a successful operation,0,0
+Superb,outstanding,4,2,Very good; excellent.,He is a superb dancer.,0,0
+Superlative,outstanding,4,2,Of the highest quality or degree.,"""Richest"" is the superlative of "" rich "".",0,0
+Exemplary,outstanding,4,2,Serving as a desirable model; very good.,"His tact was exemplary, especially considering the circumstances.",0,0
+Preferable,outstanding,4,2,More desirable or suitable.,Surely a diplomatic solution is preferable to war.,0,0
+Magician,outstanding,4,2,A person with magical powers.,Merlin was the magician in the stories of King Arthur and the Knights of the Round Table.,0,0
+Marvel,outstanding,4,2,Be filled with wonder or astonishment.,We paused to marvel at the view.,0,0
+Necromancer,outstanding,4,2,A person who practises necromancy; a wizard or magician.,Leonardo da Vinci was thought to be a necromancer due to his extensive knowledge of human anatomy and his study dead bodies.,0,0
+Prodigy,outstanding,4,2,A young person with exceptional qualities or abilities.,The 16-year-old tennis prodigy is the youngest player ever to reach the Olympic finals.,0,0
+Prowess,outstanding,4,2,Skill or expertise in a particular activity or field.,athletic / sporting prowess,0,0
+Glorious,outstanding,4,2,"Having, worthy of, or bringing fame or admiration.",a glorious victory,0,0
+Grandiose,outstanding,4,2,"Impressive and imposing in appearance or style, especially pretentiously so.",grandiose schemes / designs ideas for making money,0,0
+Ornate,outstanding,4,2,Elaborately or highly decorated.,a room with an ornate ceiling and gold mirrors,0,0
+Palatial,outstanding,4,2,Resembling a palace in being spacious and splendid.,They lived in a palatial apartment.,0,0
+Resplendent,outstanding,4,2,Attractive and impressive through being richly colourful or sumptuous.,the queen's resplendent purple robes,0,0
+Sumptuous,outstanding,4,2,Splendid and expensive-looking.,The celebrity guests turned up dressed in sumptuous evening gowns.,0,0
+Incomparable,outstanding,4,2,Without an equal in quality or extent; matchless.,incomparable beauty / skill,0,0
+Deplorable,hate,4,3,Deserving strong condemnation; completely unacceptable.,I thought his behaviour was absolutely deplorable.,0,0
+Formidable,hate,4,3,"Inspiring fear or respect through being impressively large, powerful, intense, or capable.",a formidable obstacle / task,0,0
+Inhuman,hate,4,3,Lacking human qualities of compassion and mercy; cruel and barbaric.,Prisoners of war were subjected to inhuman and degrading treatment.,0,0
+Intolerant,hate,4,3,"Not tolerant of views, beliefs, or behaviour that differ from one's own.",She can be very intolerant of students who don't understand what she's talking about.,0,0
+obnoxious,hate,4,3,Extremely unpleasant.,Some of his colleagues say that he's loud and obnoxious.,0,0
+Resent,hate,4,3,"Feel bitterness or indignation at (a circumstance, action, or person)",She bitterly resented her father's new wife.,0,0
+Loathe,hate,4,3,Feel intense dislike or disgust for.,From an early age the brothers have loathed each other.,0,0
+Detest,hate,4,3,Dislike intensely.,I detest any kind of cruelty.,0,0
+Acrimony,hate,4,3,Bitterness or ill feeling.,an acrimonious dispute,0,0
+Animosity,hate,4,3,Strong hostility.,"Of course we're competitive, but there's no personal animosity between us.",0,0
+Cynicism,hate,4,3,An inclination to believe that people are motivated purely by self-interest; scepticism.,She has a pretty cynical view of men.,0,0
+Enmity,hate,4,3,A state or feeling of active opposition or hostility.,She denied any personal enmity towards him.,0,0
+Hostility,hate,4,3,Hostile behaviour; unfriendliness or opposition.,a hostile crowd,0,0
+Misanthropy,hate,4,3,A dislike of humankind.,"In much of his work there is a sour, disappointed misanthropy.",0,0
+Sarcasm,hate,4,3,The use of irony to mock or convey contempt.,"""You have been working hard,"" he said with heavy sarcasm, as he looked at the empty page.",0,0
+Venom,hate,4,3,a poisonous substance secreted by animals.,He was shocked at the sheer venom of her reply.,0,0
+Cogent,forceful,4,3,"(of an argument or case) clear, logical, and convincing.",She argued most cogently for a relaxation of the sanctions.,0,0
+Decisive,forceful,4,3,Settling an issue; producing a definite result.,You need to be more decisive.,0,0
+Drastic,forceful,4,3,Likely to have a strong or far-reaching effect; radical and extreme.,drastic measures,0,0
+Effective,forceful,4,3,Successful in producing a desired or intended result.,It's an extremely effective cure for a headache.,0,0
+Eloquent,forceful,4,3,Fluent or persuasive in speaking or writing.,She made an eloquent appeal for action.,0,0
+Emphatic,forceful,4,3,Expressing something forcibly and clearly.,Poland reached the final of the championship yesterday with an emphatic 5–0 victory over Italy.,0,0
+Enthusiastic,forceful,4,3,"Having or showing intense and eager enjoyment, interest, or approval.",One of the good things about teaching young children is their enthusiasm.,0,0
+Forcible,forceful,4,3,Done by force.,The police's forcible entry into the building has come under a lot of criticism.,0,0
+Insistent,forceful,4,3,Insisting on or demanding something; not allowing refusal.,Greg still insists (that) he did nothing wrong.,0,0
+Stringent,forceful,4,3,"(of regulations, requirements, or conditions) strict, precise, and exacting.",The most stringent laws in the world are useless unless there is the will to enforce them.,0,0
+Tenacious,forceful,4,3,Tending to keep a firm hold of something; clinging or adhering closely.,The baby took my finger in its tenacious little fist.,0,0
+Vehement,forceful,4,3,"Showing strong feeling; forceful, passionate, or intense.","Despite vehement opposition from his family, he quit school and became an actor.",0,0
+Virile,forceful,4,3,"(of a man) having strength, energy, and a strong sex drive.",She likes her men young and virile.,0,0
+Dominant,forceful,4,3,Having power and influence over others.,a dominant military power,0,0
+Irresistible,forceful,4,3,Too attractive and tempting to be resisted.,an irresistible offer,0,0
+Significant,forceful,4,3,Sufficiently great or important to be worthy of attention; noteworthy.,There has been a significant increase in the number of women students in recent years.,0,0
+Collapse,failure,4,3,(of a structure) suddenly fall down or give way.,Thousands of buildings collapsed in the earthquake.,0,0
+Deficiency,failure,4,3,A lack or shortage.,Pregnant women often suffer from iron deficiency.,0,0
+Demise,failure,4,3,A person's death.,The demise of the company was sudden and unexpected.,0,0
+Fiasco,failure,4,3,"A complete failure, especially a ludicrous or humiliating one.",The show was a fiasco - one actor forgot his lines and another fell off the stage.,0,0
+Negligence,failure,4,3,Failure to take proper care over something.,medical negligence,0,0
+Constellation,system,5,1,A group of stars forming a pattern that is traditionally named after its apparent form or identified with a mythological figure.,At our annual ceremony we had a whole constellation of movie stars and directors.,0,0
+Course,system,5,1,"The route or direction followed by a ship, aircraft, road, or river.",They're going away on a training course next week.,0,0
+Machinery,system,5,1,Machines collectively.,industrial / farm machinery,0,0
+Metaphysics,system,5,1,abstract theory with no basis in reality., All students receive tuition in logic and metaphysics.,0,0
+Morphology,system,5,1,The study of the forms of things.,The morphology of the system was simplified in a manner suited to the recognition task.,0,0
+Network,system,5,1,An arrangement of intersecting horizontal and vertical lines.,a television network,0,0
+Philosophy,system,5,1,"The study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.",René Descartes is regarded as the founder of modern philosophy.,0,0
+Rationalism,system,5,1,The practice or principle of basing opinions and actions on reason and knowledge.,"Viewed through the lens of material rationalism, this was a clear improvement.",0,0
+Regime,system,5,1,"A government, especially an authoritarian one.","The old corrupt, totalitarian regime was overthrown.",0,0
+Resource,system,5,1,"A stock or supply of money, materials, staff, and other assets that can be drawn on to function effectively.",The country's greatest resource is the dedication of its workers.,0,0
+Technic,system,5,1,Technique.,The change of computer technic has caught many employees off guard.,0,0
+Technique,system,5,1,"A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure.",We have developed a new technique for detecting errors in the manufacturing process.,0,0
+Effect,develop,5,1,A change which is a result or consequence of an action or other cause.,The radiation leak has had a disastrous effect on/upon the environment.,0,0
+Emergence,develop,5,1,The process of becoming visible after being concealed.,"She emerged from the sea, blue with cold.",0,0
+Expansion,develop,5,1,The action of becoming larger or more extensive.,The air in the balloon expands when heated.,0,0
+Extension,develop,5,1,A part that is added to something to enlarge or prolong it.,"Martin Luther King, Jr, campaigned for the extension of civil rights to black people.",0,0
+Formation,develop,5,1,The action of forming or process of being formed.,a rock formation,0,0
+Preferment,develop,5,1,Promotion or appointment to a position or office.,"Not only does he bring the wisdom and good sense of years to his job, he is old enough not to be looking for any preferment.",0,0
+Transition,develop,5,1,The process or a period of changing from one state or condition to another.,The health-care system is in transition at the moment.,0,0
+Conversion,develop,5,1,The process of changing or causing something to change from one form to another.,Solar power is the conversion of the sun's energy into heat and electricity.,0,0
+Sentience,develop,5,1,"the capacity to feel, perceive or experience subjectively",Why are humans not willing to accept the full sentience of other animals ?,0,0
+Alter,develop,5,1,"Change in character or composition, typically in a comparatively small but significant way.",We've had to alter some of our plans.,0,0
+Augment,develop,5,1,Make (something) greater by adding to it; increase.,He would have to find work to augment his income.,0,0
+Consolidate,develop,5,1,Make (something) physically stronger or more solid.,The success of their major product consolidated the firm's position in the market.,0,0
+Derive,develop,5,1,Obtain something from (a specified source),The institute derives all its money from foreign investments.,0,0
+Emerge,develop,5,1,Move out of or away from something and become visible.,"She emerged from the sea, blue with cold.",0,0
+Expand,develop,5,1,Become or make larger or more extensive.,The air in the balloon expands when heated.,0,0
+Evolve,develop,5,1,Develop gradually.,Did humans evolve from apes ?,0,0
+Revise,develop,5,1,Examine and make corrections or alterations to (written or printed matter),His helpfulness today has made me revise my original opinion / impression of him.,0,0
+Acknowledgment,admission,5,1,Acceptance of the truth or existence of something.,All I want is some acknowledgment that his behaviour is unreasonable.,0,0
+Apology,admission,5,1,A regretful acknowledgement of an offence or failure.,I have an apology to make to you - I'm afraid I opened your letter by mistake.,0,0
+Entree,admission,5,1,The main course of a meal.,She had an entree into the city's culti-vated society.,0,0
+Importation,admission,5,1,The bringing of goods or services into a country from abroad for sale.,We import a large number of cars from Japan.,0,0
+Introgression,admission,5,1,The transfer of genetic information from one species to another as a result of hybridization between them., One of the main trends of lily breeding is to realize introgression between these groups.,0,0
+Embark,admission,5,1,Go on board a ship or aircraft.,We embarked at Liverpool for New York.,0,0
+Adversity,calamity,5,2,A difficult or unpleasant situation.,She was always cheerful in adversity.,0,0
+Calvary,calamity,5,2,The hill outside Jerusalem on which Christ was crucified.,The Plaza Mayor is dominated by a calvary.,0,0
+Casualty,calamity,5,2,A person killed or injured in a war or accident.,"The train was derailed but there were no casualties, police said.",0,0
+Cataclysm,calamity,5,2,A large-scale and violent event in the natural world.,These countries are on the brink of cataclysmic famine.,0,0
+Catastrophe,calamity,5,2,An event causing great and usually sudden damage or suffering; a disaster.,They were warned of the ecological catastrophe to come.,0,0
+Havoc,calamity,5,2,Widespread destruction.,"The storm wreaked havoc in the garden, uprooting trees and blowing a fence down.",0,0
+Mishap,calamity,5,2,An unlucky accident.,The parade was very well organized and passed without mishap.,0,0
+Ordeal,calamity,5,2,A very unpleasant and prolonged experience.,The hostages  ordeal came to an end when soldiers stormed the building.,0,0
+Upheaval,calamity,5,2,A violent or sudden change or disruption to something.,Yesterday's coup brought further upheaval to a country already struggling with famine.,0,0
+Avalanche,deluge,5,2,"A mass of snow, ice, and rocks falling rapidly down a mountainside.",We were swamped by an avalanche of letters / phone calls complaints.,0,0
+Inundate,deluge,5,2,Overwhelm (someone) with things or people to be dealt with.,We have been inundated with requests for help.,0,0
+Overproduction,deluge,5,2,"Production of more of a product, commodity, or substance than is wanted or needed.","Farmers are being encouraged to diversify into other crops, rather than continue to overproduce wine.",0,0
+Submerge,deluge,5,2,Cause (something) to be under water.,The submarine submerged when enemy planes were sighted.,0,0
+Submergence,deluge,5,2,The process or state of being submerged in or covered with water.,An ample water supply is probably the greatest advantage of soil submergence for irrigated rice.,0,0
+Submersion,deluge,5,2,The action or state of submerging or being submerged.,The fruit was preserved by submersion in alcohol.,0,0
+Abominable,bad,5,2,Causing moral revulsion.,The prisoners are forced to live in abominable conditions.,0,0
+Contemptible,bad,5,2,Deserving contempt; despicable.,Her behaviour was contemptible.,0,0
+Despicable,bad,5,2,Deserving hatred and contempt.,despicable behaviour,0,0
+Disreputable,bad,5,2,Not considered to be respectable in character or appearance.,Some of the more disreputable newspapers made FALSE claims about her private life.,0,0
+Lewd,bad,5,2,Crude and offensive in a sexual way.,Ignore him - he's being lewd.,0,0
+Odious,bad,5,2,Extremely unpleasant; repulsive.,an odious crime,0,0
+Repugnant,bad,5,2,Extremely distasteful; unacceptable.,a repugnant smell,0,0
+Repulsive,bad,5,2,Arousing intense distaste or disgust.,What a repulsive old man!,0,0
+Sordid,bad,5,2,Involving immoral or dishonourable actions and motives; arousing moral distaste and contempt.,There are lots of really sordid apartments in the city's poorer areas.,0,0
+Contaminate,bad,5,2,Make (something) impure by exposure to or addition of a poisonous or polluting substance.,Much of the coast has been contaminated by nuclear waste.,0,0
+Dishonest,bad,5,2,"Behaving or prone to behave in an untrustworthy, deceitful, or insincere way.",a dishonest lawyer,0,0
+Immoral,bad,5,2,Not conforming to accepted standards of morality.,an immoral act,0,0
+Sophisticate,bad,5,2,Make (someone or something) more sophisticated.,They are cheating but are sophisticated enough to avoid detection.,0,0
+Subvert,bad,5,2,Undermine the power and authority of (an established system or institution),subversive elements / groups in society,0,0
+Lascivious,bad,5,2,Feeling or revealing an overt sexual interest or desire.,a lascivious smile,0,0
+Sacrilegious,bad,5,2,Involving or committing sacrilege.,Muslims consider it sacrilege to wear shoes inside a mosque.,0,0
+Salacious,bad,5,2,Having or conveying undue or inappropriate interest in sexual matters.,a salacious book / joke comment,0,0
+Venal,bad,5,2,Showing or motivated by susceptibility to bribery; corrupt.,a venal ruler,0,0
+Admonish,criticize,5,3,Reprimand firmly.,His mother admonished him for eat ing too quickly.,0,0
+Castigate,criticize,5,3,Reprimand (someone) severely.,Health inspectors castigated the kitchen staff for poor standards of cleanliness.,0,0
+Chastise,criticize,5,3,Rebuke or reprimand severely.,Charity organizations have chastised the government for not do ing enough to prevent the latest famine in Africa.,0,0
+Denounce,criticize,5,3,Publicly declare to be wrong or evil.,The government's economic policy has been denounced on all sides.,0,0
+Denunciation,criticize,5,3,Public condemnation of someone or something.,his denunciation as a traitor,0,0
+Indict,criticize,5,3,Formally accuse of or charge with a crime.,He was indicted on drug charges at Snaresbrook Crown Court.,0,0
+Chronology,criticize,5,3,The arrangement of events or dates in the order of their occurrence.,I'm not sure of the chronology of events.,0,0
+Commentary,criticize,5,3,An expression of opinions or offering of explanations about an event or situation.,The commentary on the Olympic Games was much better on the other channel.,0,0
+Discussion,criticize,5,3,The action or process of talking about something in order to reach a decision or to exchange ideas.,We will discussions with employee representatives about possible redundancies.,0,0
+Editorial,criticize,5,3,Relating to the commissioning or preparing of material for publication.,All the papers deal with the same subject in their editorials.,0,0
+Reconsider,criticize,5,3,"Consider (something) again, especially for a possible change of decision regarding it.",He begged her to reconsider but she would not.,0,0
+Revisal,criticize,5,3,the act of revising; revision," From the raising of the hypothesis to revisal, the pattern becomes the inherent logic of the innovation to theory of Physics.",0,0
+Gullible,foolish,5,3,Easily persuaded to believe something; credulous.,There are any number of miracle cures on the market for people gullible enough to buy them.,0,0
+Imprudent,foolish,5,3,Not showing care for the consequences of an action; rash.,The report criticizes the banks for being imprudent in their lending.,0,0
+Quixotic,foolish,5,3,Extremely idealistic; unrealistic and impractical.,"This is a vast, exciting and some say quixotic project.",0,0
+Unwise,foolish,5,3,(of a person or action) not wise or sensible; foolish.,We made several unwise investments and lost quite a bit of money.,0,0
+Absurd,foolish,5,3,"Wildly unreasonable, illogical, or inappropriate.",What an absurd thing to say!,0,0
+Arbitrary,foolish,5,3,"Based on random choice or personal whim, rather than any reason or system.",arbitrary decision-making,0,0
+Illogical,foolish,5,3,"Lacking sense or clear, sound reasoning.","It is an illogical statement, because if one part is TRUE, then the other must be FALSE.",0,0
+Inadmissible,foolish,5,3,(especially of evidence in court) not accepted as valid.,Her confession was ruled inadmissible as evidence because it was given under pressure from the police.,0,0
+Invalid,foolish,5,3,A person made weak or disabled by illness or injury.,I'm afraid your driving licence is invalid in Eastern Europe.,0,0
+Undue,foolish,5,3,Unwarranted or inappropriate because excessive or disproportionate.,Such a high increase will impose an undue burden on the local tax payer.,0,0
+Lunacy,foolish,5,3,The state of being a lunatic; insanity (not in technical use),It would be lunacy to try to climb the mountain in this weather.,0,0
+Incoherent,foolish,5,3,(of spoken or written language) expressed in an incomprehensible or confusing way; unclear.,He was confused and incoherent and I didn't get much sense out of him.,0,0
+Comical,foolish,5,3,"Amusing, especially in a ludicrous or absurd way.",He looked so comical in that hat.,0,0
+Futile,Small/Trivial,5,3,Incapable of producing any useful result; pointless.,Attempts to get supplies to the region are futile because troops will not allow the aid convoy to enter city.,0,0
+Immaterial,Small/Trivial,5,3,Unimportant under the circumstances; irrelevant.,Whether the book is well or badly written is immaterial ( to me) - it has an important message.,0,0
+Inconsequential,Small/Trivial,5,3,Not important or significant.,an inconsequential matter / remark,0,0
+Insignificant,Small/Trivial,5,3,Too small or unimportant to be worth consideration.,Why bother arguing about such an insignificant amount of money ?,0,0
+Irrelevant,Small/Trivial,5,3,Not connected with or relevant to something.,These documents are largely irrelevant to the present investigation.,0,0
+Negligible,Small/Trivial,5,3,So small or unimportant as to be not worth considering; insignificant.,The difference between the two products is negligible.,0,0
+Secondary,Small/Trivial,5,3,"Coming after, less important than, or resulting from someone or something else that is primary.",Her health is what matters - the cost of the treatment is of secondary importance.,0,0
+Slight,Small/Trivial,5,3,Small in degree; inconsiderable.,a slight improvement,0,0
+Superficial,Small/Trivial,5,3,Existing or occurring at or on the surface.,"He's fun to be with, but he's very superficial.",0,0
+Imperceptible,Small/Trivial,5,3,"So slight, gradual, or subtle as not to be perceived.","She heard a faint, almost imperceptible cry.",0,0
+Pitiful,Small/Trivial,5,3,Deserving or arousing pity.,The refugees arriving at the camp had pitiful stories to tell.,0,0
+Trivial,Small/Trivial,5,3,Of little value or importance.,I don't know why he gets so upset about something so trivial.,0,0
+Condense,Small/Trivial,5,3,Make (something) denser or more concentrated.,I condensed ten pages of comments into/to two.,0,0
+Miniature,Small/Trivial,5,3,Very small of its kind.,I bought some miniature furniture for my niece's doll's house.,0,0
+Miter,Small/Trivial,5,3,miniature; the official headdress of a bishop in the Western Church,He covered the miter with glue before making the joint.,0,0
+Brusque,rude,6,1,Abrupt or offhand in speech or manner.,His secretary was a little brusque with me.,0,0
+Candid,rude,6,1,Truthful and straightforward; frank.,The two presidents have had candid talks about the current crisis.,0,0
+Forthright,rude,6,1,(of a person or their manner or speech) direct and outspoken.,His forthright manner can be mistaken for rudeness.,0,0
+Succinct,rude,6,1,(especially of something written or spoken) briefly and clearly expressed.,Keep your letter succinct and to the point.,0,0
+Undermine,rude,6,1,Erode the base or foundation of (a rock formation),The president has accused two cabinet members of working secretly to undermine his position /him.,0,0
+Abusive,rude,6,1,Extremely offensive and insulting.,an abusive letter / phone call,0,0
+Boorish,rude,6,1,Rough and bad-mannered; coarse.,I found him rather boorish and aggressive.,0,0
+Crass,rude,6,1,Showing no intelligence or sensitivity.,a crass remark,0,0
+Flippant,rude,6,1,Not showing a serious or respectful attitude.,a flippant remark / attitude,0,0
+Irreverent,rude,6,1,Showing a lack of respect for people or things that are generally taken seriously.,an irreverent comment / approach attitude,0,0
+Irreverential,rude,6,1,lacking in due respect or reverence,Journalists may undermine the establishment's power in ways which are sometimes irreverential.,0,0
+Mischievous,rude,6,1,Causing or showing a fondness for causing trouble in a playful way.,She has a mischievous sense of humour.,0,0
+Presumptuous,rude,6,1,(of a person or their behaviour) failing to observe the limits of what is permitted or appropriate.,It would be presumptuous of me to comment on the matter.,0,0
+Hoarse,rude,6,1,"(of a person's voice) sounding rough and harsh, typically as the result of a sore throat or of shouting.",All the shouting had left her rather hoarse.,0,0
+Onerous,rude,6,1,"(of a task or responsibility) involving a great deal of effort, trouble, or difficulty.",the onerous task of finding a peaceful solution,0,0
+Raucous,rude,6,1,Making or constituting a disturbingly harsh and loud noise.,I heard the raucous call of the crows.,0,0
+Savage,rude,6,1,"(of an animal or force of nature) fierce, violent, and uncontrolled.",a savage dog / beast,0,0
+Ribald,rude,6,1,Referring to sexual matters in an amusingly coarse or irreverent way.,He entertained us with ribald stories.,0,0
+Colloquial,vernacular,6,1,(of language) used in ordinary or familiar conversation; not formal or literary.,colloquial speech,0,0
+Dialect,vernacular,6,1,A particular form of a language which is peculiar to a specific region or social group.,a regional dialect,0,0
+Idiom,vernacular,6,1,a characteristic mode of expression in music or art.,"To ""have bitten off more than you can chew "" is an idiom that means you have tried to do something which is too difficult for you.",0,0
+Jargon,vernacular,6,1,Special words or expressions used by a profession or group that are difficult for others to understand.,military / legal computer jargon,0,0
+Lingo,vernacular,6,1,A foreign language or local dialect.,"In Italy, of course, Stef can speak the lingo.",0,0
+Parlance,vernacular,6,1,"A particular way of speaking or using words, especially a way common to those with a particular job or interest.","Oral contraceptives are referred to as ""the pill "" in common parlance.",0,0
+Forebode,presage,6,1,(of a situation or occurrence) act as an advance warning of (something bad),"There's a sense of foreboding in the capital, as if fighting might at any minute break out.",0,0
+Forerun,presage,6,1,Go before or indicate the coming of.,He called to his mind the various portents and prophecies which had forerun their present danger.,0,0
+Foresee,presage,6,1,Be aware of beforehand; predict.,I don't foresee any difficulties so long as we keep within budget.,0,0
+Foretell,presage,6,1,Predict (the future or a future event),He was a 16th-century prophet who foretold how the world would end.,0,0
+Portend,presage,6,1,"Be a sign or warning that (something, especially something momentous or calamitous) is likely to happen.","It was a deeply superstitious country, where earthquakes were commonly believed to portend the end of dynasties.",0,0
+Precede,presage,6,1,Come before (something) in time.,Kofi Annan preceded Ban Ki-moon as the Secretary-General of the UN.,0,0
+Preexist,presage,6,1,Exist at or from an earlier time.,Dinosaurs pre-existed human beings by many millions of years.,0,0
+Prescience,presage,6,1,The fact of knowing something in advance; foreknowledge.,a prescient warning,0,0
+Prophesy,presage,6,1,Say that (a specified thing) will happen in the future.,Few could have prophesied this war.,0,0
+Predict,presage,6,1,Say or estimate that (a specified thing) will happen in the future or will be a consequence of something.,It's still not possible to accurately predict the occurrence of earthquakes.,0,0
+Visualize,presage,6,1,Form a mental image of; imagine.,I was so surprised when he turned up - I'd visualized someone much older.,0,0
+Inimical,destroy,6,2,Tending to obstruct or harm.,Excessive managerial control is inimical to creative expression.,0,0
+Malignant,destroy,6,2,Evil in nature or effect; malevolent.,The process by which malignant cancer cells multiply isn't fully understood.,0,0
+Noxious,destroy,6,2,"Harmful, poisonous, or very unpleasant.",They died from inhaling noxious fumes.,0,0
+Unfavorable,destroy,6,2,Expressing or showing a lack of approval or support.,The play received generally unfavorable reviews.,0,0
+Virulent,destroy,6,2,(of a disease or poison) extremely severe or harmful in its effects.,A particularly virulent strain of flu has recently claimed a number lives in the region.,0,0
+Annihilate,destroy,6,2,Destroy utterly; obliterate.,a city annihilated by an atomic bomb,0,0
+Conquer,destroy,6,2,Overcome and take control of (a place or people) by military force.,The Spanish conquered the New World in the 16th century.,0,0
+Contuse,destroy,6,2,"Injure (a part of the body) without breaking the skin, forming a bruise.","When the skin is trapped between an impacting force and the ribs, it contuses.",0,0
+Demolish,destroy,6,2,Pull or knock down (a building),A number of houses were demolished so that the supermarket could be built.,0,0
+Horde,destroy,6,2,A large group of people.,Hordes of students on bikes made crossing the road difficult.,0,0
+Overpower,destroy,6,2,Defeat or overcome with superior strength.,The gunman was finally overpowered by three security guards.,0,0
+Overthrow,destroy,6,2,Remove forcibly from power.,He said that Allende's government in Chile was overthrown by the army and the CIA in 1973.,0,0
+Repress,destroy,6,2,Subdue (someone or something) by force.,He repressed a sudden desire to cry.,0,0
+Suppress,destroy,6,2,Forcibly put an end to.,The Hungarian uprising in 1956 was suppressed by the Soviet Union.,0,0
+Decimate,destroy,6,2,"Kill, destroy, or remove a large proportion of.",Populations of endangered animals have been decimated.,0,0
+Depopulate,destroy,6,2,Substantially reduce the population of (an area),The region was depopulated by disease / famine war.,0,0
+Negate,destroy,6,2,Make ineffective; nullify.,The increase in our profits has been negated by the rising costs of running the business.,0,0
+Obliterate,destroy,6,2,Destroy utterly; wipe out.,The missile strike was devastating - the target totally obliterated.,0,0
+Uproot,destroy,6,2,"Pull (something, especially a tree or plant) out of the ground.",Hundreds of mature trees were uprooted in the storm.,0,0
+Abrogate,destroy,6,2,"Repeal or do away with (a law, right, or formal agreement)",The treaty was abrogated in 1929.,0,0
+Invalidate,destroy,6,2,"Make or prove (an argument, statement, or theory) unsound or erroneous.",A few minor factual errors should not invalidate the theory.,0,0
+Rebut,destroy,6,2,Claim or prove that (evidence or an accusation) is false.,She has rebutted charges that she has been involved in any financial malpractice.,0,0
+Refute,destroy,6,2,Prove (a statement or theory) to be wrong or false; disprove.,to refute a person / theory argument claim,0,0
+Rescind,destroy,6,2,"Revoke, cancel, or repeal (a law, order, or agreement)",The policy of charging air travellers for vegetarian meals proved unpopular and has already been rescinded.,0,0
+Vitiate,destroy,6,2,Spoil or impair the quality or efficiency of.,He said that American military power should never again be vitiated by political concerns.,0,0
+Adjacency,district,6,2,neighborhood,They work in adjacent buildings.,0,0
+Benefice,district,6,2,"A permanent Church appointment, typically that of a rector or vicar.",A benefice consisting of six parishes can commonly have five patrons who all have views on their incumbent.,0,0
+Borough,district,6,2,A town or district which is an administrative unit.,"More than 70% of jobs in the borough are in service industries, ranging from hotels to banking.",0,0
+Constituency,district,6,2,A group of voters in a specified area who elect a representative to a legislative body.,a rural / urban constituency,0,0
+Contiguity,district,6,2,The state of bordering or being in contact with something.,"The two states are contiguous with/to each other, but the laws are quite different.",0,0
+Loam,district,6,2,A fertile soil of clay and sand containing humus.,Therefore a mixture of clay or loam and coarse river sand is needed.,0,0
+Municipality,district,6,2,A town or district that has local government.,The municipality provides services such as water and rubbish collection.,0,0
+Buffoonery,farce,6,2,Behaviour that is ridiculous but amusing.,Doesn't he get tired of buffoon in class ?,0,0
+Caricature,farce,6,2,"a picture, description, or imitation of a person in which certain striking characteristics are exaggerated for comic effect.",The characters in his early novels are a lot subtler than the overblown caricatures in his more recent work.,0,0
+Mockery,farce,6,2,Teasing and contemptuous language or behaviour directed at a particular person or thing.,"Bill's mockery of his dad was cruel, but it made us laugh.",0,0
+Parody,farce,6,2,"An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.",He was an 18th-century author who wrote parodies of other people's works.,0,0
+Travesty,farce,6,2,"A false, absurd, or distorted representation of something.","Their production of ""Sweeney Todd"" was the worst I've ever seen - it was a travesty.",0,0
+Acute,keen,6,3,(of an unpleasant or unwelcome situation or phenomenon) present or experienced to a severe or intense degree.,She felt acute embarrassment / anxiety concern at his behaviour.,0,0
+Astute,keen,6,3,Having or showing an ability to accurately assess situations or people and turn this to one's advantage.,an astute investor / businesswoman,0,0
+Conscious,keen,6,3,Aware of and responding to one's surroundings.,"My tooth doesn't exactly hurt, but I'm conscious of it all the time.",0,0
+Shrewd,keen,6,3,Having or showing sharp powers of judgement; astute.,He was shrewd enough not to take the job when there was the possibility of getting a better one a few months later.,0,0
+Vigilant,keen,6,3,Keeping careful watch for possible danger or difficulties.,"Following the bomb scare at the airport, the staff have been warned to be extra vigilant.",0,0
+Bleak,grim,6,3,(of an area of land) lacking vegetation and exposed to the elements.,"The house stands on a bleak, windswept hilltop.",0,0
+Lurid,grim,6,3,"Unpleasantly bright in colour, especially so as to create a harsh or unnatural effect.",You can read all the lurid details of the affair in today's paper.,0,0
+Merciless,grim,6,3,Showing no mercy.,There are reports of merciless attacks on innocent civilians.,0,0
+Morbid,grim,6,3,"Characterized by an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease.",a morbid fascination with death,0,0
+Ominous,grim,6,3,Giving the worrying impression that something bad is going to happen; threateningly inauspicious.,There was an ominous silence when I asked whether my contract was going to be renewed.,0,0
+Competitor,adversary,6,3,A person who takes part in a sporting contest.,Competition for jobs is intense.,0,0
+Contender,adversary,6,3,A person or group competing with others to achieve something.,"Now aged 42, he is no longer considered a serious contender for the title.",0,0
+Litigant,adversary,6,3,A person involved in a lawsuit.,The trial abruptly ended when litigants announced they had settled the case out of court.,0,0
+Nemesis,adversary,6,3,The inescapable agent of someone's or something's downfall.,The tax increases proved to be the president's political nemesis.,0,0
+Opponent,adversary,6,3,"Someone who competes with or opposes another in a contest, game, or argument.",a political opponent,0,0
+Concussion,shocking bad,6,3,Temporary unconsciousness or confusion and other symptoms caused by a blow on the head.,He's been dizzy and confused since the accident. Do you think he has concussion?,0,0
+Outrage,shocking bad,6,3,"An extremely strong reaction of anger, shock, or indignation.",These murders have provoked outrage across the country.,0,0
+Exorbitant,shocking bad,6,3,(of a price or amount charged) unreasonably high.,The bill for dinner was exorbitant.,0,0
+Extravagant,shocking bad,6,3,Lacking restraint in spending money or using resources.,the extravagant lifestyle of a movie star,0,0
+Fabulous,shocking bad,6,3,"Extraordinary, especially extraordinarily large.",She looked absolutely fabulous in her dress.,0,0
+Flagrant,shocking bad,6,3,(of an action considered wrong or immoral) conspicuously or obviously offensive.,a flagrant misuse of funds / privilege,0,0
+Grievous,shocking bad,6,3,(of something bad) very severe or serious.,Her death is a grievous loss to the whole of the community.,0,0
+Heinous,shocking bad,6,3,"(of a person or wrongful act, especially a crime) utterly odious or wicked.",a heinous crime,0,0
+Inexcusable,shocking bad,6,3,Too bad to be justified or tolerated.,His drunken outbursts during the mayor's speech were inexcusable.,0,0
+Infamous,shocking bad,6,3,Well known for some bad quality or deed.,"The list included the infamous George Drake, a double murderer.",0,0
+Nefarious,shocking bad,6,3,(typically of an action or activity) wicked or criminal.,The company's CEO seems to have been involved in some nefarious practices / activities.,0,0
+Outlandish,shocking bad,6,3,Looking or sounding bizarre or unfamiliar.,an outlandish hairstyle / outfit,0,0
+Preposterous,shocking bad,6,3,Contrary to reason or common sense; utterly absurd or ridiculous.,The very idea is preposterous!,0,0
+Ridiculous,shocking bad,6,3,Deserving or inviting derision or mockery; absurd.,Do I look ridiculous in this hat ?,0,0
+Scurrilous,shocking bad,6,3,Making or spreading scandalous claims about someone with the intention of damaging their reputation.,a scurrilous remark / attack article,0,0
+Unconscionable,shocking bad,6,3,Not right or reasonable.,To make people feel shame or guilt for being ill is unconscionable.,0,0
+Unnatural,shocking bad,6,3,Contrary to the ordinary course of nature; abnormal.,Nothing unnatural or polluting can be used.,0,0
+Ignominious,shocking bad,6,3,Deserving or causing public disgrace or shame.,an ignominious defeat / failure retreat,0,0
+Reprehensible,shocking bad,6,3,Deserving censure or condemnation.,reprehensible conduct / actions,0,0
+Atrocious,shocking bad,6,3,Horrifyingly wicked.,an atrocious film / piece of acting,0,0
+Egregious,shocking bad,6,3,Outstandingly bad; shocking.,It was an egregious error for a statesman to show such ignorance.,0,0
+Frightful,shocking bad,6,3,"Very unpleasant, serious, or shocking.",The weather outside was frightful.,0,0
+Ghastly,shocking bad,6,3,Causing great horror or fear.,Today's newspaper gives all the ghastly details of the murder.,0,0
+Grisly,shocking bad,6,3,Causing horror or disgust.,The 55-year-old Canadian had suffered a grisly death.,0,0
+Hideous,shocking bad,6,3,Extremely ugly.,They've just built some hideous new apartment blocks on the seafront.,0,0
+Outrageous,shocking bad,6,3,Shockingly bad or excessive.,"The judge criticized the ""outrageous greed "" of some of the bankers.",0,0
+Unspeakable,shocking bad,6,3,Not able to be expressed in words.,unspeakable crimes,0,0
+Aeronaut,control,7,1,"A traveller in a hot-air balloon, airship, or other flying craft.","Aeronaut John Steiner inflates his hot air balloon, as seen in the oldest known photograph of an aircraft.",0,0
+Coxswain,control,7,1,"The person who steers a ship's boat, racing boat, or other boat.","Coxes are often small, light people.",0,0
+Functionary,control,7,1,A person who has to perform official functions or duties; an official.,The visitors were met by a functionary who escorted them to the director's office.,0,0
+Lawgiver,control,7,1,A person who draws up and enacts laws.,"There is only one lawgiver and judge, he who is able to save and to destroy.",0,0
+Legislator,control,7,1,A person who makes laws; a member of a legislative body.,They said they would continue to write letters to legislators urging them to pass the law.,0,0
+Mandate,control,7,1,An official order or commission to do something.,"At the forthcoming elections, the government will be seeking a fresh mandate from the people.",0,0
+Oversee,control,7,1,"Supervise (a person or their work), especially in an official capacity.","As marketing manager, her job is to oversee all the company's advertising.",0,0
+Administrator,control,7,1,A person responsible for carrying out the administration of a business or organization.,Teachers complain that more of their time is taken up with administration than with teaching.,0,0
+Bureaucracy,control,7,1,A system of government in which most of the important decisions are taken by state officials rather than by elected representatives.,I had to deal with the university's bureaucracy when I was applying for financial aid.,0,0
+Commission,control,7,1,"an instruction, command, or role given to a person or group",The newspaper commissioned a series of articles on the worst excesses of the fashion industry.,0,0
+Legitimacy,control,7,1,Conformity to the law or to rules.,The lawyers expressed serious doubts about the legitimacy of military action.,0,0
+Privilege,control,7,1,"A special right, advantage, or immunity granted or available only to a particular person or group.","Healthcare should be a right, not a privilege.",0,0
+Check,control,7,1,"Examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.","You should always check your oil, water, and tyres before taking car on a long trip.",0,0
+Discipline,control,7,1,"The practice of training people to obey rules or a code of behaviour, using punishment to correct disobedience.",parental / military school discipline,0,0
+Dominance,control,7,1,Power and influence over others.,The ability of a firm to set or control market prices is a sign of dominance.,0,0
+Dominate,control,7,1,Have power and influence over.,He refuses to let others speak and dominates every meeting.,0,0
+Influence,control,7,1,"The capacity to have an effect on the character, development, or behaviour of someone or something, or the effect itself.",Helen's a influence on him.,0,0
+Judicature,control,7,1,The administration of justice.,"The effect of the Judicature Acts now, what have the judicature Acts 1873 and 1875 done?",0,0
+Jurisdiction,control,7,1,The official power to make legal decisions and judgements.,The court has no jurisdiction in/over cases of this kind.,0,0
+Magistracy,control,7,1,The office or authority of a magistrate.,The magistracy was usually considered a necessary precondition for entry into the Roman Senate.,0,0
+Maintain,control,7,1,Cause or enable (a condition or situation) to continue.,The army has been brought in to maintain order in the region.,0,0
+Underlie,control,7,1,(especially of a layer of rock or soil) lie or be situated under (something),Psychological problems very often underlie apparently physical disorders.,0,0
+Preeminence,control,7,1,The fact of surpassing all others; superiority.,He was the preeminent scientist of his day.,0,0
+Dissuade,control,7,1,Persuade (someone) not to take a particular course of action.,I tried to dissuade her from leav ing.,0,0
+Tyranny,control,7,1,Cruel and oppressive government or rule.,"This, the president promised us, was a war against tyranny.",0,0
+Acumen,judge,7,1,The ability to make good judgements and take quick decisions.,She has considerable acumen.,0,0
+Critique,judge,7,1,"A detailed analysis and assessment of something, especially a literary, philosophical, or political theory.",a Marxist critique of neo-liberal policy,0,0
+Distinction,judge,7,1,A difference or contrast between similar things or people.,There's a clear distinction between the dialects spoken in the two regions.,0,0
+Edict,judge,7,1,An official order or proclamation issued by a person in authority.,The City Council issued an edict against spitting in the street.,0,0
+Guess,judge,7,1,Estimate or conclude (something) without sufficient information to be sure of being correct.,"I didn't know the answer, so I had to guess.",0,0
+Insight,judge,7,1,The capacity to gain an accurate and deep understanding of someone or something.,"It was an interesting book, full of fascinating insights into human relationships.",0,0
+Intellect,judge,7,1,"The faculty of reasoning and understanding objectively, especially with regard to abstract matters.",Her energy and intellect are respected all over the world.,0,0
+Intelligence,judge,7,1,The ability to acquire and apply knowledge and skills.,an intelligence test,0,0
+Opinion,judge,7,1,"A view or judgement formed about something, not necessarily based on fact or knowledge.",What's your opinion about/on the matter ?,0,0
+Perception,judge,7,1,"The ability to see, hear, or become aware of something through the senses.",We have to change the public's perception that money is being wasted.,0,0
+Prehension,judge,7,1,The action of grasping or seizing., The prehension status of the patients with university education was better than that of the patients without university education.,0,0
+Prudence,judge,7,1,The quality of being prudent; cautiousness.,One can rely on the prudence of his decisions.,0,0
+Sentence,judge,7,1,declare the punishment decided for (an offender).,He's very impatient and always interrupts me mid-sentence.,0,0
+Affect,disturb,7,2,Have an effect on; make a difference to.,Both buildings were badly affected by the fire.,0,0
+Agitate,disturb,7,2,Make (someone) troubled or nervous.,I didn't want to agitate her by telling her.,0,0
+Depress,disturb,7,2,Make (someone) feel utterly dispirited or dejected.,This weather depresses me.,0,0
+Displace,disturb,7,2,"Take over the place, position, or role of.",The building of a new dam will displace thousands of people who live in this area.,0,0
+Disrupt,disturb,7,2,"Interrupt (an event, activity, or process) by causing a disturbance or problem.",Heavy snow disrupted travel into the city this morning.,0,0
+Embarrass,disturb,7,2,"Cause (someone) to feel awkward, self-conscious, or ashamed.",You're embarrassing him with your compliments !,0,0
+Exasperate,disturb,7,2,Irritate and frustrate (someone) intensely.,His assistant’s carelessness is exasperating him.,0,0
+Interrupt,disturb,7,2,Stop the continuous progress of (an activity or process),She tried to explain what had happened but he kept interrupting her.,0,0
+Intoxicate,disturb,7,2,(of alcoholic drink or a drug) cause (someone) to lose control of their faculties or behaviour.,The drug has the power to heal or intoxicate.,0,0
+Irk,disturb,7,2,Irritate; annoy.,The negative reply to my complaint really irked me.,0,0
+Irritate,disturb,7,2,Make (someone) annoyed or a little angry.,After a while her behaviour really began to irritate me.,0,0
+Misplace,disturb,7,2,Put (an object) in the wrong place and so lose it temporarily.,She misplaced her keys so often that her secretary used to carry spare ones for her.,0,0
+Perturb,disturb,7,2,Make (someone) anxious or unsettled.,News of the arrest perturbed her greatly.,0,0
+Unsettle,disturb,7,2,Cause to feel anxious or uneasy; disturb.,One of the documentary's many unsettling images is of a child playing with her father's gun.,0,0
+Hindrance,disturb,7,2,"A thing that provides resistance, delay, or obstruction to something or someone.",High winds have hindered firefighters in their efforts to put out the blaze.,0,0
+Intermission,disturb,7,2,A pause or break.,The Sonics led by only two points at intermission.,0,0
+Respite,disturb,7,2,A short period of rest or relief from something difficult or unpleasant.,We worked for hours without respite.,0,0
+Ailment,disturb,7,2,"An illness, typically a minor one.",Treat minor ailments yourself.,0,0
+Malady,disturb,7,2,A disease or ailment.,All the rose bushes seem to be suffering from the same mysterious malady.,0,0
+Obstruction,disturb,7,2,The action of obstructing or the state of being obstructed.,There's some kind of obstruction on the railway tracks.,0,0
+Desistance,disturb,7,2,Stop doing something; cease or abstain.,"It was felt by them at the time to be an additional incentive to moderation, to desistance from extreme views.",0,0
+Deter,disturb,7,2,Discourage (someone) from doing something by instilling doubt or fear of the consequences.,These measures are designed to deter an enemy attack.,0,0
+Exclude,disturb,7,2,"Deny (someone) access to a place, group, or privilege.",Women are still excluded from the club.,0,0
+Hinder,disturb,7,2,Make it difficult for (someone) to do something or for (something) to happen.,High winds have hindered firefighters in their efforts to put out the blaze.,0,0
+Impede,disturb,7,2,Delay or prevent (someone or something) by obstructing them; hinder.,"Although he's shy, it certainly hasn't impeded his career in any way.",0,0
+Intercept,disturb,7,2,Obstruct (someone or something) so as to prevent them from continuing to a destination.,Law enforcement agents intercepted a shipment of drugs from Central America.,0,0
+Obstruct,disturb,7,2,"Block (an opening, path, road, etc.); be or get in the way of.",After the earthquake many roads were obstructed by collapsed buildings.,0,0
+Deficient,weak,7,2,Not having enough of a specified quality or ingredient.,A diet deficient in vitamin D may cause the disease rickets.,0,0
+Demulcent,weak,7,2,(of a substance) relieving inflammation or irritation.," Can arise to be mixed undisturbedly demulcent action, also have effect to cardiovascular system.",0,0
+Dissentient,weak,7,2,In opposition to a majority or official opinion.,The bill passed with one dissentient vote.,0,0
+Fragile,weak,7,2,(of an object) easily broken or damaged.,Be careful with that vase - it's very fragile.,0,0
+Inadequate,weak,7,2,Lacking the quality or quantity required; insufficient for a purpose.,This work is woefully inadequate - you'll have to do it again.,0,0
+Inefficient,weak,7,2,Not achieving maximum productivity; wasting or failing to make the best use of time or resources.,Existing methods of production are expensive and inefficient.,0,0
+Niggardly,weak,7,2,"Ungenerous with money, time, etc.; mean.",a niggardly donation / amount,0,0
+Vulnerable,weak,7,2,"Exposed to the possibility of being attacked or harmed, either physically or emotionally.","I felt very vulnerable, standing there without any clothes on.",0,0
+Exhaust,weak,7,2,Make (someone) feel very tired.,The long journey exhausted the children.,0,0
+Paralyze,weak,7,2,Cause (a person or part of the body) to become partly or wholly incapable of movement.,He was paralyzed from the waist down.,0,0
+Diminution,weak,7,2,"A reduction in the size, extent, or importance of something.","I don't want to diminish her achievements, but she did have a lot of help.",0,0
+Distrust,unsure,7,3,The feeling that someone or something cannot be relied upon.,The two groups have existed in a state of mutual distrust for centuries.,0,0
+Anarchy,unsure,7,3,A state of disorder due to absence or non-recognition of authority or other controlling systems.,What we are witnessing is the country's slow slide into anarchy.,0,0
+Commotion,unsure,7,3,A state of confused and noisy disturbance.,His arrival caused quite a commotion.,0,0
+Complication,unsure,7,3,A circumstance that complicates something; a difficulty.,Dave couldn't find his passport at the airport and then there were further complications when Fiona lost her baggage.,0,0
+Consternation,unsure,7,3,"A feeling of anxiety or dismay, typically at something unexpected.",The prospect of so much work filled him with consternation.,0,0
+Illusion,unsure,7,3,An instance of a wrong or misinterpreted perception of a sensory experience.,He had no illusions about his talents as a singer.,0,0
+Panic,unsure,7,3,"Sudden uncontrollable fear or anxiety, often causing wildly unthinking behaviour.",a state of panic,0,0
+Averse,unsure,7,3,Having a strong dislike of or opposition to something.,Few people are averse to the idea of a free holiday.,0,0
+Dubious,unsure,7,3,Hesitating or doubting.,These claims are dubious and not scientifically proven.,0,0
+Insecure,unsure,7,3,Not firm or fixed; liable to give way or break.,I wonder what it was about her upbringing that made her so insecure.,0,0
+Loath,unsure,7,3,Reluctant; unwilling.,I'm loath to spend it all at once.,0,0
+Reluctant,unsure,7,3,Unwilling and hesitant; disinclined.,I was having such a good time I was reluctant to leave.,0,0
+Reticent,unsure,7,3,Not revealing one's thoughts or feelings readily.,He is very reticent about his past.,0,0
+Weak-kneed,unsure,7,3,Weak and shaky as a result of fear or excitement.,"Instead of defending traditional values, the church frequently seems weak-kneed and irresolute.",0,0
+Suspense,unsure,7,3,A state or feeling of excited or anxious uncertainty about what may happen.,She kept him in suspense for several days before she said that she would marry him.,0,0
+Baffle,unsure,7,3,Totally bewilder or perplex.,She was completely baffled by his strange behaviour.,0,0
+Entangle,unsure,7,3,Cause to become twisted together with or caught in.,The dolphin had become entangled in/with the fishing nets.,0,0
+Humiliate,unsure,7,3,Make (someone) feel ashamed and foolish by injuring their dignity and pride.,How could you humiliate me by questioning my judgment in front of everyone like that?,0,0
+Misrepresent,unsure,7,3,Give a false or misleading account of the nature of.,She accused her opponents of deliberately misrepresenting her as an extremist.,0,0
+Ambiguous,unsure,7,3,Open to more than one interpretation; not having one obvious meaning.,His reply to my question was somewhat ambiguous.,0,0
+Debatable,unsure,7,3,Open to discussion or argument.,It s debatable wh ether a university degree helps at all.,0,0
+Inconsistent,unsure,7,3,Not staying the same throughout.,These findings are inconsistent with those of previous studies.,0,0
+misunderstand,unsure,7,3,Fail to interpret or understand (something) correctly.,"If you think that these transport problems can be solved by building more roads, you completely misunderstand the nature of the problem.",0,0
+Abrupt,careless,7,3,Sudden and unexpected.,an abrupt change / movement,0,0
+Expeditious,careless,7,3,Done with speed and efficiency.,The bank was expeditious in replying to my letter.,0,0
+Facile,careless,7,3,Ignoring the true complexities of an issue; superficial.,a facile explanation,0,0
+Indiscreet,careless,7,3,"Having, showing, or proceeding from too great a readiness to reveal things that should remain private or secret.","In an indiscreet moment, the president let his genuine opinions be known.",0,0
+Rapid,careless,7,3,Happening in a short time or at a great rate.,The 1990s were a period of rapid.,0,0
+Reckless,careless,7,3,Heedless of danger or the consequences of one's actions; rash or impetuous.,He was found guilty of reckless driving.,0,0
+Summary,careless,7,3,A brief statement or account of the main points of something.,"At the end of the news, they often give you a summary of the main stories.",0,0
+Excitable,careless,7,3,Responding too readily to something new or stimulating; easily excited.,an excitable child,0,0
+Casual,careless,7,3,Relaxed and unconcerned.,casual clothes,0,0
+Cursory,careless,7,3,Hasty and therefore not thorough or detailed.,a cursory glance / look,0,0
+Impromptu,careless,7,3,Done without being planned or rehearsed.,an impromptu party / performance,0,0
+Perfunctory,careless,7,3,"(of an action) carried out without real interest, feeling, or effort.",His smile was perfunctory.,0,0
+Spontaneous,careless,7,3,Performed or occurring as a result of a sudden impulse or inclination and without premeditation or external stimulus.,"His jokes seemed spontaneous, but were in fact carefully prepared beforehand.",0,0
+Expedite,promote,8,1,Make (an action or process) happen sooner or be accomplished more quickly.,Something needs to be done to expedite the process.,0,0
+Facilitate,promote,8,1,Make (an action or process) easy or easier.,The new ramp will facilitate the entry of wheelchairs.,0,0
+Prefer,promote,8,1,Like (one thing or person) better than another or others; tend to choose.,Do you prefer hot or cold weather ?,0,0
+Promulgate,promote,8,1,Promote or make widely known (an idea or cause),The new law was finally promulgated in the autumn of last year.,0,0
+Upcast,promote,8,1,A shaft through which air leaves a mine.,The child looked at her father with upcast eyes.,0,0
+Emigrant,alien,8,1,A person who leaves their own country in order to settle permanently in another.,"For a growing number of the world's emigrants, China - not the United States - is the land where opportunities are endless.",0,0
+Foreign,alien,8,1,"Of, from, in, or characteristic of a country or language other than one's own.",Spain was the first foreign country she had visited.,0,0
+Foreigner,alien,8,1,A person born in or coming from a country other than one's own.,Her family disowned her for marrying a foreigner.,0,0
+Immigrant,alien,8,1,A person who comes to live permanently in a foreign country.,a large immigrant population,0,0
+Non-resident,alien,8,1,Not living or based in a particular place.,The hotel bar is open to non-residents.,0,0
+Account,tale,8,1,A report or description of an event or experience.,I've opened an account with a building society.,0,0
+Anecdote,tale,8,1,A short amusing or interesting story about a real incident or person.,He told one or two amusing anecdotes about his years as a policeman.,0,0
+Epic,tale,8,1,"A long poem, typically one derived from ancient oral tradition.",I gave up my epic and wrote this little tale instead.,0,0
+fraudulence,tale,8,1,the action or quality of cheating,She felt anger at herself for failing to see through Peter's fraudulence.,0,0
+Myth,tale,8,1,A traditional story.,ancient myths,0,0
+Narration,tale,8,1,The action or process of narrating a story.,Dame Judi Dench did the narration for the documentary.,0,0
+Parable,tale,8,1,"A simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.",The minister preached a sermon on the parable of the lost sheep.,0,0
+Version,tale,8,1,A particular form of something differing in certain respects from an earlier form or other forms of the same type of thing.,The official version of events is that the police were attacked and were just trying to defend themselves.,0,0
+Conclusive,accurate,8,1,(of evidence or argument) having or likely to have the effect of proving a case; decisive.,They had conclusive of her guilt.,0,0
+Definite,accurate,8,1,Clearly stated or decided; not vague or doubtful.,The date for the meeting is now definite: 5 March.,0,0
+Explicit,accurate,8,1,"Stated clearly and in detail, leaving no room for confusion or doubt.",I gave her very explicit directions how to get here.,0,0
+Impeccable,accurate,8,1,In accordance with the highest standards; faultless.,impeccable taste / manners credentials,0,0
+Linear,accurate,8,1,Arranged in or extending along a straight or nearly straight line.,a linear diagram,0,0
+Meticulous,accurate,8,1,Showing great attention to detail; very careful and precise.,Many hours of meticulous preparation have gone into writing the book.,0,0
+Minute,accurate,8,1,A period of time equal to sixty seconds or a sixtieth of an hour.,a 20-minute bus ride,0,0
+Rigorous,accurate,8,1,Extremely thorough and careful.,rigorous testing / checking methods,0,0
+Scrupulous,accurate,8,1,"(of a person or process) careful, thorough, and extremely attentive to details.",A scrupulous politician would not lie about her business interests.,0,0
+Sensitive,accurate,8,1,"Quick to detect or respond to slight changes, signals, or influences.",Her reply showed that she was very sensitive to criticism.,0,0
+Terse,accurate,8,1,Sparing in the use of words; abrupt.,"""Are you feeling any better ?"" ""No!"" was the terse reply.",0,0
+Truthful,accurate,8,1,Telling or expressing the truth; honest.,The public has a right to expect truthful answers from politicians.,0,0
+Fastidious,accurate,8,1,Very attentive to and concerned about accuracy and detail.,He is very fastidious about how a suitcase should be packed.,0,0
+Imperious,accurate,8,1,Arrogant and domineering.,an imperious manner / voice,0,0
+Authentic,accurate,8,1,Of undisputed origin and not a copy; genuine.,an authentic 1920s dress,0,0
+Literal,accurate,8,1,Taking words in their usual or most basic sense without metaphor or exaggeration.,"The literal meaning of "" television "" is "" seeing from a distance "".",0,0
+Modify,accurate,8,1,Make partial or minor changes to (something),"Instead of simply punishing them, the system encourages offenders to modify their behaviour.",0,0
+Appreciable,accurate,8,1,Large or important enough to be noticed.,There has been an appreciable drop in the number of unemployed since the new government came to power.,0,0
+Finite,accurate,8,1,Limited in size or extent.,The funds available for the health service are finite and we cannot afford to waste money.,0,0
+implicit,accurate,8,1,Suggested though not directly expressed.,He interpreted her comments as an implicit criticism of the government.,0,0
+Hernia,breach,8,2,A condition in which part of an organ is displaced and protrudes through the wall of the cavity containing it.,"The 20-year-old, recovering from a hernia operation returns to full training.",0,0
+Infringe,breach,8,2,"Actively break the terms of (a law, agreement, etc.)",They infringed building regulations.,0,0
+Invasion,breach,8,2,An instance of invading a country or region with an armed force.,They were planning to mount an invasion of the north of the country.,0,0
+Lapse,breach,8,2,"A brief or temporary failure of concentration, memory, or judgement.",a lapse of concentration,0,0
+Omission,breach,8,2,Someone or something that has been left out or excluded.,Measures to control child employment are a glaring omission from new legislation to protect children.,0,0
+Rupture,breach,8,2,"(especially of a pipe or container, or bodily part such as an organ or membrane) break or burst suddenly.",His appendix ruptured and he had to be rushed to hospital.,0,0
+Accuse,charge,8,2,Charge (someone) with an offence or crime.,"""It wasn't my fault."" ""Don't worry, I'm not accusing you.""",0,0
+Allege,charge,8,2,"Claim or assert that someone has done something illegal or wrong, typically without proof.",The two men allege (that) the police forced them to make FALSE confessions.,0,0
+Expense,charge,8,2,The cost incurred in or required for something.,Buying a bigger car has proved to be well expense.,0,0
+Implicate,charge,8,2,Show (someone) to be involved in a crime.,Have they any evidence to implicate him in the robbery ?,0,0
+Jurisprudence,charge,8,2,The theory or philosophy of law.,"In the jurisprudence, we must first address the prohibition of abuse of rights, followed by identifying what is the abuse of rights.",0,0
+Presentment,charge,8,2,"A formal presentation of information to a court, especially by a sworn jury regarding an offence or other matter.",No presentment for acceptance is needed for a bill of exchange payable at sight.,0,0
+Inactive,dull,8,2,Not engaging in or involving any or much physical activity.,It's bad for your health to be physically inactive.,0,0
+Listless,dull,8,2,(of a person or their manner) lacking energy or enthusiasm.,He's seemed listless and a little depressed ever since he got his exam results.,0,0
+Mediocre,dull,8,2,Of only average quality; not very good.,The film's plot is predictable and the acting is mediocre.,0,0
+Monotonous,dull,8,2,"Dull, tedious, and repetitious; lacking in variety and interest.",a monotonous job,0,0
+Opaque,dull,8,2,Not able to be seen through; not transparent.,opaque glass / tights,0,0
+Somber,dull,8,2,Dark or dull in colour or tone.,A funeral is a somber occasion.,0,0
+Tarnish,dull,8,2,"Lose or cause to lose lustre, especially as a result of exposure to air or moisture.",By this time a series of scandals had severely tarnished the candidate's.,0,0
+Tiresome,dull,8,2,Causing one to feel bored or annoyed.,I find it very tiresome doing the same job day after.,0,0
+Trite,dull,8,2,(of a remark or idea) lacking originality or freshness; dull on account of overuse.,His lyrics about love and peace are too trite for me to take them seriously.,0,0
+Banal,dull,8,2,So lacking in originality as to be obvious and boring.,He just sat there making banal remarks all evening.,0,0
+Diurnal,perpetual,8,2,Of or during the day.,"Unlike most other bats, this species is diurnal.",0,0
+Habitual,perpetual,8,2,Done constantly or as a habit.,a habitual thief,0,0
+Incessant,perpetual,8,2,(of something regarded as unpleasant) continuing without pause or interruption.,incessant rain / noise complaints,0,0
+Indestructible,perpetual,8,2,Not able to be destroyed.,These plastic cups are virtually indestructible.,0,0
+Interminable,perpetual,8,2,Endless or apparently endless (often used hyperbolically),an interminable delay,0,0
+Irrefragable,perpetual,8,2,Not able to be refuted or disproved; indisputable.,That the employees are the best wealth in the enterprise has been an irrefragable fact in this knowledge economy era.,0,0
+Irrefrangible,perpetual,8,2,(of a rule) inviolable.,"But in every shape, they are, on account of their solidity, infrangible, or incapable of actual division.",0,0
+Permanent,perpetual,8,2,Lasting or intended to last or remain unchanged indefinitely.,She is looking for a permanent place to stay.,0,0
+Continuous,perpetual,8,2,Forming an unbroken whole; without interruption.,continuous pain,0,0
+Inexhaustible,perpetual,8,2,(of an amount or supply of something) unable to be used up because existing in abundance.,There seemed to be an inexhaustible supply of champagne at the wedding.,0,0
+Myriad,perpetual,8,2,A countless or extremely great number of people or things.,a myriad of choices,0,0
+Deity,perpetual,8,2,A god or goddess (in a polytheistic religion),Ares and Aphrodite were the ancient Greek deities of war and love.,0,0
+Immutable,perpetual,8,2,Unchanging over time or unable to be changed.,an immutable law,0,0
+Indelible,perpetual,8,2,(of ink or a pen) making marks that cannot be removed.,indelible ink,0,0
+Lifelong,perpetual,8,2,Lasting or remaining in a particular state throughout a person's life.,She was a lifelong member of the Labour party.,0,0
+Akin,comparable,8,3,Of similar character.,They speak a language akin to French.,0,0
+Analogous,comparable,8,3,"Comparable in certain respects, typically in a way which makes clearer the nature of the things compared.",He drew an analogy between the brain and a vast computer.,0,0
+Equivalent,comparable,8,3,"Equal in value, amount, function, meaning, etc.",She's doing the equivalent job in the new company but for more money.,0,0
+proportionate,comparable,8,3,corresponding in size or amount to something else,A number of directors have purchased tranches of the shares to maintain their proportionate interests in the enlarged share capital.,0,0
+Similar,comparable,8,3,"Having a resemblance in appearance, character, or quantity, without being identical.",My father and I have similar views on politics.,0,0
+Exceed,eclipse,8,3,"Be greater in number or size than (a quantity, number, or other measurable thing)","The final cost should not exceed $5,000.",0,0
+Outdo,eclipse,8,3,Be superior to in action or performance.,He always tries to outdo everybody else in the class.,0,0
+Outweigh,eclipse,8,3,"Be heavier, greater, or more significant than.",The benefits of this treatment far outweigh any risks.,0,0
+Overshadow,eclipse,8,3,Tower above and cast a shadow over.,Karen has always felt overshadowed by her famous elder sister.,0,0
+Transcend,eclipse,8,3,Be or go beyond the range or limits of (a field of activity or conceptual sphere),The best films are those which transcend national or cultural barriers.,0,0
+Accuracy,skill,8,3,The quality or state of being correct or precise.,We can predict changes with a surprising accuracy.,0,0
+Competence,skill,8,3,The ability to do something successfully or efficiently.,Her competence as a teacher is unquestionable.,0,0
+Dexterity,skill,8,3,"Skill in performing tasks, especially with the hands.",He caught the ball with great dexterity.,0,0
+Efficiency,skill,8,3,The state or quality of being efficient.,What is so impressive about their society is the efficiency of the public services.,0,0
+Finesse,skill,8,3,Impressive delicacy and skill.,It was a disappointing performance that lacked finesse.,0,0
+Ingenuity,skill,8,3,"The quality of being clever, original, and inventive.",Drug smugglers constantly use their ingenuity to find new ways of getting drugs into a country.,0,0
+Mastery,skill,8,3,Comprehensive knowledge or skill in a particular subject or activity.,her mastery of the situation,0,0
+Proficiency,skill,8,3,A high degree of skill; expertise.,Candidates must be able to demonstrate a high level of proficiency in both languages.,0,0
+Qualification,skill,8,3,A pass of an examination or an official completion of a course.,You'll never get a good job if you don't have any qualifications.,0,0
+Potency,skill,8,3,The power of something to influence or make an impression.,This new drug's potency is not yet known.,0,0
+Physicist,skill,8,3,An expert in or student of physics.,"So fate not only made me a physicist, but it also made me a computer scientist.",0,0
+Adroit,skill,8,3,Clever or skilful.,an adroit reaction / answer movement of the hand,0,0
+Efficient,skill,8,3,(of a system or machine) achieving maximum productivity with minimum wasted effort or expense.,The city's transport system is one of the most efficient in Europe.,0,0
+Ingenious,skill,8,3,"(of a person) clever, original, and inventive.",an ingenious idea / method solution,0,0
+Proficient,skill,8,3,Competent or skilled in doing or using something.,a proficient swimmer,0,0
+Versatile,skill,8,3,Able to adapt or be adapted to many different functions or activities.,He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies.,0,0
+Obsolete,primitive,8,3,No longer produced or used; out of date.,Gas lamps became obsolete when electric lighting was invented.,0,0
+Primitive,primitive,8,3,"Relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.","Primitive races colonized these islands 2,000 years ago.",0,0
+Pristine,primitive,8,3,In its original condition; unspoilt.,pristine new offices,0,0
+Archaic,primitive,8,3,Very old or old-fashioned.,an archaic system of government,0,0
+Feudal,primitive,8,3,"According to, resembling, or denoting the system of feudalism.",the feudal system,0,0
+Indigenous,primitive,8,3,Originating or occurring naturally in a particular place; native.,Are there any species of frog indigenous to the area ?,0,0
+Medieval,primitive,8,3,Relating to the Middle Ages.,a medieval building / painting town,0,0
+Primeval,primitive,8,3,Of the earliest time in history.,primeval forests,0,0
+Rudimentary,primitive,8,3,Involving or limited to basic principles.,Her knowledge is still only rudimentary.,0,0
+Rustic,primitive,8,3,Relating to the countryside; rural.,a rustic bench / cabin,0,0
+Impassable,impenetrable,9,1,Impossible to travel along or over.,Many roads were flooded and impassable following the storm.,0,0
+Impervious,impenetrable,9,1,Not allowing fluid to pass through.,How does glue bond with impervious substances like glass and metal ?,0,0
+Impregnable,impenetrable,9,1,(of a fortified position) unable to be captured or broken into.,"Despite burglar alarms and window locks, homes are never impregnable against determined thieves.",0,0
+Incomprehensible,impenetrable,9,1,Not able to be understood; not intelligible.,These accounts are utterly incomprehensible. Can you explain them to me?,0,0
+Inscrutable,impenetrable,9,1,Impossible to understand or interpret.,an inscrutable face / expression smile,0,0
+Invulnerable,impenetrable,9,1,Impossible to harm or damage.,"The command bunker is virtually invulnerable, even to a nuclear attack.",0,0
+Unaccountable,impenetrable,9,1,Unable to be explained.,The military and CIA hire contractors who are completely unaccountable to Congress.,0,0
+Inaccessible,impenetrable,9,1,Unable to be reached.,one of the most inaccessible places in the world,0,0
+Invincible,impenetrable,9,1,Too powerful to be defeated or overcome.,Last year the company invincible but in recent weeks has begun to have problems.,0,0
+Congeal,impenetrable,9,1,"Become semi-solid, especially on cooling.",The blood had congealed in thick black clots.,0,0
+Acrimonious,acerbic,9,1,(typically of speech or discussion) angry and bitter.,an acrimonious dispute,0,0
+acid,acerbic,9,1,"A substance with particular chemical properties including turning litmus red, neutralizing alkalis, and dissolving some metals.",acetic/hydrochloric/ lactic acid,0,0
+Caustic,acerbic,9,1,Able to burn or corrode organic tissue by chemical action.,a caustic substance,0,0
+Corrosive,acerbic,9,1,Tending to cause corrosion.,Steel tends to corrode faster in a salty atmosphere.,0,0
+Mordant,acerbic,9,1,(especially of humour) having or showing a sharp or critical quality; biting.,mordant,0,0
+Sardonic,acerbic,9,1,Grimly mocking or cynical.,a sardonic smile / look comment,0,0
+Satiric,acerbic,9,1,"sarcastic, critical, and mocking another's weaknesses",I'm not sure I fully understood the complete satiric meaning of your piece.,,0
+Trenchant,acerbic,9,1,Vigorous or incisive in expression or style.,"His most trenchant criticism is reserved for the party leader, whom he describes as ""the most incompetent and ineffectual the has known "".",0,0
+Antarctic,icy,9,1,Relating to the south polar region or Antarctica.,The protection of the Antarctic from commercial exploitation is an important goal of environmentalists.,0,0
+Frigid,icy,9,1,Very cold in temperature.,She turned her frigid gaze on him.,0,0
+Glacial,icy,9,1,"Relating to or denoting the presence or agency of ice, especially in the form of glaciers.",glacial deposits,0,0
+Glazier,icy,9,1,A person whose trade is fitting glass into windows and doors.,A glazier was just finishing off replacing the shattered window so at least I could see what I was doing.,0,0
+Hibernal,icy,9,1,"Of, characteristic of, or occurring in winter.","The cave bear retired into the same retreats, but he probably only came there to pass the period of his hibernal sleep.",0,0
+Polar,icy,9,1,Relating to the North or South Pole.,the polar ice caps,0,0
+Wintry,icy,9,1,"Characteristic of winter, especially in feeling or looking very cold and bleak.",It looks like this wintry weather is here to stay.,0,0
+Aloof,indifferent,9,1,Not friendly or forthcoming; cool and distant.,She seemed rather aloof when in fact she was just shy.,0,0
+Disinterested,indifferent,9,1,Not influenced by considerations of personal advantage.,a disinterested observer / judgment,0,0
+Impersonal,indifferent,9,1,"Not influenced by, showing, or involving personal feelings.",She has a very cold and impersonal manner.,0,0
+Lax,indifferent,9,1,"Not sufficiently strict, severe, or careful.",The subcommittee contends that the authorities were lax in investigating most of the cases.,0,0
+Neutral,indifferent,9,1,"Not supporting or helping either side in a conflict, disagreement, etc.; impartial.","If there's an argument between my daughter and her mother, it's important that I remain neutral.",0,0
+Non-combatant,indifferent,9,1,"A person who is not engaged in fighting during a war, especially a civilian, army chaplain, or army doctor.",non-combatant troops / ships,0,0
+Passive,indifferent,9,1,"Accepting or allowing what happens or what others do, without active response or resistance.",He's very passive in the relationship.,0,0
+Unbiased,indifferent,9,1,Showing no prejudice for or against something; impartial.,unbiased advice,0,0
+Impartial,indifferent,9,1,Treating all rivals or disputants equally.,impartial advice,0,0
+Objective,indifferent,9,1,(of a person or their judgement) not influenced by personal feelings or opinions in considering and representing facts.,Her objective now is simply to stay in power.,0,0
+Satire,mockery,9,2,"The use of humour, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices.",political satire,0,0
+Wry,mockery,9,2,"Using or expressing dry, especially mocking, humour.",a wry smile / comment,0,0
+Buffoonery,mockery,9,2,Behaviour that is ridiculous but amusing.,"He insists over and over that his task is not buffoonery, but teaching.",0,0
+Caricature,mockery,9,2,"A picture, description, or imitation of a person in which certain characteristics are exaggerated to create a comic effect.",She drew a wickedly funny caricature of the teacher.,0,0
+Parody,mockery,9,2,"An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.",He attacked her ideas through parody.,0,0
+Travesty,mockery,9,2,"A false, absurd, or distorted representation of something.","It seemed almost a mockery, a travesty of what should have been.",0,0
+Belittle,mockery,9,2,Dismiss (someone or something) as unimportant.,"Though she had spent hours fixing the computer, he belittled her efforts.",0,0
+Deride,mockery,9,2,Express contempt for; ridicule.,He derided my singing as pathetic.,0,0
+Derision,mockery,9,2,Contemptuous ridicule or mockery.,They treated his suggestion with derision.,0,0
+Disregard,mockery,9,2,Pay no attention to; ignore.,What amazes me is her complete disregard for anyone else's opinion.,0,0
+Revile,mockery,9,2,Criticize in an abusive or angrily insulting manner.,The judge was reviled in the newspapers for his opinions on rape.,0,0
+Ridicule,mockery,9,2,The subjection of someone or something to contemptuous and dismissive language or behaviour.,She was treated with scorn and ridicule by her colleagues when she applied for the job.,0,0
+Believe,admit,9,2,"Accept that (something) is true, especially without proof.","Strangely, no one believed us when we told them we'd been visited by a creature from Mars.",0,0
+Confide,admit,9,2,Tell someone about a secret or private matter while trusting them not to repeat it to others.,He confided ( to her) that his hair was not his own.,0,0
+Divulge,admit,9,2,Make known (private or sensitive information),Journalists do not divulge their sources.,0,0
+Enlist,admit,9,2,Enrol or be enrolled in the armed services.,They both enlisted ( in the navy ) a year before the war broke out.,0,0
+Innovate,admit,9,2,"Make changes in something established, especially by introducing new methods, ideas, or products.",The fashion industry is always desperate to innovate.,0,0
+Recognize,admit,9,2,Identify (someone or something) from having encountered them before; know again.,"I hadn't seen her for 20 years, but I recognized her immediately.",0,0
+Antidote,remedy,9,2,A medicine taken or given to counteract a particular poison.,Sales of nerve gas antidotes increased dramatically before the war.,0,0
+Medicine,remedy,9,2,"The science or practice of the diagnosis, treatment, and prevention of disease (in technical use often taken to exclude surgery)",paediatric / preventative medicine,0,0
+Prescription,remedy,9,2,An instruction written by a medical practitioner that authorizes a patient to be issued with a medicine or treatment.,a doctor's prescription,0,0
+Recourse,remedy,9,2,A source of help in a difficult situation.,It is hoped that the dispute will be settled without recourse to litigation.,0,0
+Rectify,remedy,9,2,Put right; correct.,I am determined to take whatever action is necessary to rectify the situation.,0,0
+Redress,remedy,9,2,Remedy or set right (an undesirable or unfair situation),"Most managers, politicians and bosses are men - how can women ?",0,0
+Accurate,proper,9,2,"(especially of information, measurements, or predictions) correct in all details; exact.",an accurate machine,0,0
+Appropriate,proper,9,2,Suitable or proper in the circumstances.,appropriate footwear for the country,0,0
+Decent,proper,9,2,Conforming with generally accepted standards of respectable or moral behaviour.,Everyone should be entitled to a decent wage / standard of living.,0,0
+Equitable,proper,9,2,Fair and impartial.,an equitable tax system,0,0
+Legitimate,proper,9,2,Conforming to the law or to rules.,The army must give power back to the legitimate government.,0,0
+Permissible,proper,9,2,Permitted; allowed.,Is it permissible to park my car here?,0,0
+Precise,proper,9,2,Marked by exactness and accuracy of expression or detail.,The bunker's precise location is a closely guarded secret.,0,0
+Relevant,proper,9,2,Closely connected or appropriate to what is being done or considered.,Education should be relevant to the child's needs.,0,0
+Allot,proper,9,2,Give or apportion (something) to someone.,They allotted everyone a separate desk.,0,0
+Confiscate,proper,9,2,Take or seize (someone's property) with authority.,Miss Edwards confiscated my phone !,0,0
+Embezzle,proper,9,2,Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works),She embezzled thousands of dollars from the charity.,0,0
+Pertinent,proper,9,2,Relevant or applicable to a particular matter; apposite.,a pertinent question / remark,0,0
+Reconcilable,proper,9,2,Capable of being reconciled; compatible.,He has resigned because he no longer believes that the strategy of our party is reconcilable with his republican beliefs.,0,0
+Rightful,proper,9,2,"Having a legitimate right to property, position, or status.",Don't forget that I am the rightful owner of this house.,0,0
+Lithograph,copy,9,3,A lithographic print.,"Apart from paintings he produced a good deal of graphic work, including numerous book illustrations in lithograph and woodcut.",0,0
+Octavo,copy,9,3,A size of book page that results from folding each printed sheet into eight leaves (sixteen pages),"The text was extensively altered for the second edition of 1875, and the format was reduced to the usual crown octavo.",0,0
+Quarto,copy,9,3,A size of book page resulting from folding each printed sheet into four leaves (eight pages).,"Of course, it is not possible to have eleven leaves in one gathering of a quarto book.",0,0
+Replica,copy,9,3,"An exact copy or model of something, especially one on a smaller scale.",The ship is an exact replica of the original Golden Hind.,0,0
+Reproduce,copy,9,3,Produce a copy of.,His work was reproduced on leaflets and magazines.,0,0
+Reproduction,copy,9,3,The action or process of copying something.,human / sexual reproduction,0,0
+Specimen,copy,9,3,"An individual animal, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display.",He has a collection of rare insect specimens.,0,0
+Statuette,copy,9,3,"A small statue or figurine, especially one that is smaller than life-size.",Gardening enthusiasts are turning detective to try and find the origins of a carved statuette.,0,0
+Facsimile,copy,9,3,"An exact copy, especially of written or printed material.",a facsimile of the original manuscript,0,0
+Abet,provoke,9,3,"Encourage or assist (someone) to do something wrong, in particular to commit a crime.",His accountant had abetted him in the fraud.,0,0
+Aggravate,provoke,9,3,"Make (a problem, injury, or offence) worse or more serious.",Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion.,0,0
+Awaken,provoke,9,3,Rouse from sleep; cause to stop sleeping.,They were awakened by the sound of gunfire.,0,0
+Engender,provoke,9,3,"Cause or give rise to (a feeling, situation, or condition)",Her latest book has engendered a lot of controversy.,0,0
+Enrage,provoke,9,3,Make (someone) very angry.,Plans to build a new nightclub in the neighbourhood have enraged local residents.,0,0
+Galvanize,provoke,9,3,Shock or excite (someone) into taking action.,Western charities were galvanized by TV pictures of starving people.,0,0
+Generate,provoke,9,3,Produce or create.,Her latest film has generated a lot of.,0,0
+Incite,provoke,9,3,Encourage or stir up (violent or unlawful behaviour),She incited racial hatred by distributing anti-Semitic leaflets.,0,0
+Accost,provoke,9,3,Approach and address (someone) boldly or aggressively.,I'm usually accosted by beggars and drunks as I walk to the station.,0,0
+Badger,provoke,9,3,"A heavily built omnivorous nocturnal mammal of the weasel family, typically having a grey and black coat.",Stop badgering me - I'll do it when I'm ready.,0,0
+Tantalize,provoke,9,3,Torment or tease (someone) with the sight or promise of something that is unobtainable.,Her paintings tantalize the eye.,0,0
+Conjecture,hunch,9,3,An opinion or conclusion formed on the basis of incomplete information.,There's been a lot of conjecture in the media recently about the marriage.,0,0
+Inkling,hunch,9,3,A slight knowledge or suspicion; a hint.,I didn't have the slightest inkling that she was unhappy.,0,0
+Intuition,hunch,9,3,"The ability to understand something instinctively, without the need for conscious reasoning.",Often there's no clear evidence one way or the other and you just have to base your judgment on intuition.,0,0
+Premonition,hunch,9,3,"A strong feeling that something is about to happen, especially something unpleasant.","He had a premonition that his plane would crash, so he took the train.",0,0
+Reck,hunch,9,3,Pay heed to something.,"Yet there are dangers, dangers to me of which I reck little, and dangers to thee.",0,0
+Supposition,hunch,9,3,A belief held without proof or certain knowledge; an assumption or hypothesis.,That article was based on pure supposition.,0,0
+Captivate,fascinate,9,3,Attract and hold the interest and attention of; charm.,"With her beauty and charm, she captivated film audiences everywhere.",0,0
+Engross,fascinate,9,3,Absorb all the attention or interest of.,What is it about Harry Potter that so engrosses children ?,0,0
+Enrapture,fascinate,9,3,Give intense pleasure or joy to.,The performance enraptured adults and children alike.,0,0
+Hypnotize,fascinate,9,3,Produce a state of hypnosis in (someone),She agreed to be hypnotized to try to remember what had happened.,0,0
+Mesmerize,fascinate,9,3,Capture the complete attention of (someone); transfix.,I was completely mesmerized by the performance.,0,0
+Tempt,fascinate,9,3,Entice or try to entice (someone) to do something that they find attractive but know to be wrong or unwise.,The offer of free credit tempted her into buy ing a new car.,0,0
+Enamor,fascinate,9,3,Be filled with love for.,"Needless to say, this does not enamor her to the powers that be in Cameroon.",0,0
+Amusement,fascinate,9,3,The state or experience of finding something funny.,She looked at him with amusement.,0,0
+Gratify,fascinate,9,3,Give (someone) pleasure or satisfaction.,We were gratified by the response to our appeal.,0,0
